@@ -1,0 +1,461 @@
+Family,Name in data base,Name in reference,Recorder,Source,Statut,Fleshy_fruit,Dehicent,Fleshy_appendage,Attractive_color,Flight_appendage,Fruit_type,Diaspore,Syndrome,Fruit_d1_min,Fruit_d1_max,Fruit_d2_min,Fruit_d2_max,Fruit_d3_min,Fruit_d3_max,Fruit_dim_unit,Seed_d1_min,Seed_d1_max,Seed_d2_min,Seed_d2_max,Seed_d3_min,Seed_d3_max,Seed_dim_unit,seed_per_fruit_min,seed_per_fruit_max
+Fabaceae,Acacia spirorbis,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Prance, 1983)",native,,1,1,,,pod,seed,endozoochory,5,,0.5,0.7,,,cm,5,,2.5,,,,mm,,
+Malpighiaceae,Acridocarpus austrocaledonicus,,Jérôme Munzinger,Baillon 1874,endemic,,,,,1,samara,fruit,anemochory,,,,,,,,,,,,,,,,
+Rutaceae,Acronychia laevis,,Thomas Ibanez,Flora of Australia,native,1,,,,,fleshy fruit,fruit,endozoochory,7,12,,,,,mm,4,4.5,,,,,mm,,
+Malvaceae,Acropogon aoupiniensis,,Thomas Ibanez,Morat (1988),endemic,,1,1,1,,follicle,seed,endozoochory,3,4,,,,,cm,,,,,,,,1,6
+Malvaceae,Acropogon macrocarpus,,Thomas Ibanez,Morat and Chalopin (2003),endemic,,1,1,,,follicle,seed,endozoochory,7,8,6,7,,,cm,2.8,2,,,,,cm,,10
+Malvaceae,Acropogon merytifolius,,Sébastien Goizé,Morat and Chalopin (2003)/Kaoh_2017,endemic,,1,,,,follicle,seed,endozoochory,3,4,,,,,cm,,,,,,,,1,6
+Malvaceae,Acropogon sageniifolius,,Thomas Ibanez,Schlechter (1906),endemic,,1,,,,follicle,seed,barochory,,,,,,,,,,,,,,,,
+Malvaceae,Acropogon schistophilus,,Sébastien Goizé,Morat and Chalopin (2003)/Kaoh_2017/Virot,endemic,,1,,,,follicle,seed,barochory/endozoochory,3,4,2.5,,,,cm,45.1,,12.5,,,,mm,3,4
+Malvaceae,Acropogon tireliae,,Sébastien Goizé,Morat and Chalopin (2007)/Endémia,endemic,,1,,,,follicle,seed,barochory,,,,,,,,,,,,,,,,
+Araucariaceae,Agathis lanceolata,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Laubenfels, 1972)",endemic,,,,,1,cone,seed,anemochory/endozoochory,,,,,,,,12,15,7,,,,mm,,
+Araucariaceae,Agathis moorei,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Laubenfels, 1972)",endemic,,,,,1,cone,seed,anemochory,,,,,,,,20,22,8,,,,mm,,
+Meliaceae,Aglaia elaeagnoidea,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Mabberley, 1988)",native,1,,,,,berry,fruit,endozoochory,1.5,,,,,,cm,1,,,,,,cm,2,
+Rubiaceae,Aidia congesta,,Sébastien Goizé,herbier de Nouméa,endemic,1,,,,,fleshy fruit,fruit,endozoochory,10,,,,,,mm,,,,,,,,,
+Cornaceae,Alangium vitiense,,Thomas Ibanez,de Wilde and Duyfjes (2017),native,1,,,,,drupe,fruit,endozoochory,17,22,8,11,,,mm,,,,,,,,,
+Sapindaceae,Alectryon carinatum,,Thomas Ibanez,Munzinger et al. (2020),endemic,,1,1,,,capsule,seed,endozoochory,5.6,13,5.7,10.6,,,mm,3,,,,,,mm,,
+Euphorbiaceae,Aleurites moluccana,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (McPherson and Tirel, 1987)",native,1,,,,,drupe,fruit,endozoochory,3.5,4,3.5,5.2,3.5,,cm,,,,,,,,,
+Rhamnaceae,Alphitonia neocaledonica,,Sébastien Goizé,Virot/Flore_NC/Carpenter 2003/herbier de Nouméa,endemic,,1,1,1,,capsule,seed,endozoochory,6,12.9,6.5,12.1,,,mm,5,10,11,15,,,mm,,
+Apocynaceae,Alstonia balansae,,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Boiteau, 1981)/Sébastien Goizé mesure site herbier de Nouméa",endemic,,1,,,1,follicle,seed,anemochory,280,2,,,,,mm,3,10,,,,,mm,,
+Apocynaceae,Alstonia costata,Alstonia plumosa,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Boiteau, 1981)",native,,1,,,1,follicle,seed,anemochory,80,150,3,,,,mm,3,,1.5,,,,mm,,
+Apocynaceae,Alstonia lanceolata,,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Boiteau, 1981)/Bluméa",endemic,,1,,,1,follicle,seed,anemochory,,300,2,3,,,mm,3,,4,,2,,mm,,
+Apocynaceae,Alstonia sphaerocapitata,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Boiteau, 1981)",endemic,,1,,,1,follicle,seed,anemochory,,20,,,,,mm,7,,2,,,,mm,,
+Amborellaceae,Amborella trichopoda,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Jérémie, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,8,10,4,5,,,mm,8,8,,,,,mm,,1
+Meliaceae,Anthocarapa nitidula,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Mabberley, 1988)",native,,1,,1,,capsule,seed,endozoochory,5,,,,,,cm,3,,1.5,,,,cm,1,3
+Apiaceae,Apiopetalum glabratum,Apiopetalum pennelii R.Vig.,Sébastien Goizé,Endemia/herbier de Noumea,endemic,1,,,,,fleshy fruit,fruit,endozoochory,4,6,,,,,mm,,,,,,,,,
+Metteniusaceae,Apodytes clusiifolia,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (Villiers, 1980 )/Virot",endemic,1,,,,,drupe,fruit,endozoochory,5,11.2,4.6,15.3,,,mm,1,,,,,,cm,,
+Araucariaceae,Araucaria montana,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (Laubenfels, 1972)/Endémia",endemic,,,,,1,cone,seed,anemochory,80,90,60,80,,,mm,,,,,,,,,
+Fabaceae,Archidendropsis fournieri,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Prance, 1983)",endemic,,1,,,,pod,seed,barochory,20,,2.1,2.7,,,cm,1.9,2.5,1.5,1.7,,,cm,,
+Fabaceae,Archidendropsis fulgens,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Prance, 1983)",endemic,,1,,,1,pod,seed,anemochory,8,15,1.5,1.9,,,cm,13,,17,,,,mm,,
+Fabaceae,Archidendropsis glandulosa,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Prance, 1983)",endemic,,1,,,1,pod,seed,anemochory,6,13.5,1.3,1.9,,,cm,15,17,12,13,0.3,,mm,,
+Fabaceae,Archidendropsis granulosa,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Prance, 1983)",endemic,,1,,,1,pod,seed,anemochory,8,20,0.6,1.7,,,cm,7,12,8,13.5,1,,mm,,
+Fabaceae,Archidendropsis streptocarpa,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Prance, 1983)",endemic,,1,,,1,pod,seed,anemochory,10,25,1.7,3,,,cm,11,18.5,12.5,25.5,0.5,,mm,,
+Myrtaceae,Archirhodomyrtus baladensis,,Thomas Ibanez,"Snow, pers. comm.",endemic,1,,,,,berry,fruit,endozoochory,4,9,4,7,,,mm,,,,,,,,,
+Myrtaceae,Archirhodomyrtus turbinata,,Thomas Ibanez,"Snow, pers. comm.",endemic,1,,,,,berry,fruit,endozoochory,6,10,5,8,,,mm,,,,,,,,,
+Chloranthaceae,Ascarina rubricaulis,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Jérémie, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,,,,,,,,,,,,,,,,
+Chloranthaceae,Ascarina solmsiana,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Jérémie, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,3.5,4,2.5,,,,mm,,,,,,,,,
+Picrodendraceae,Austrobuxus alticola,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (McPherson and Tirel, 1987)",endemic,,1,1,,,capsule,seed,endozoochory,12,13,15,,,,mm,6,7,3,,,,mm,,
+Picrodendraceae,Austrobuxus carunculatus,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (McPherson and Tirel, 1987)",endemic,,1,1,,,capsule,seed,endozoochory,11,17,11,15,,,mm,7,9,5,,3,,mm,,
+Picrodendraceae,Austrobuxus eugeniifolius,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (McPherson and Tirel, 1987)",endemic,1,,,,,drupe,fruit,endozoochory,7,11,7,11,,,mm,5,6,4,5,3,,mm,,
+Picrodendraceae,Austrobuxus ovalis,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (McPherson and Tirel, 1987)",endemic,1,,,,,drupe,fruit,endozoochory,7,9,,,,,mm,5,,4,,3,,mm,,
+Picrodendraceae,Austrobuxus pauciflorus,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (McPherson and Tirel, 1987)",endemic,1,,,,,drupe,fruit,endozoochory,7,8,,,,,mm,6,7,4,,2,,mm,,
+Picrodendraceae,Austrobuxus vieillardii,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (McPherson and Tirel, 1987)",endemic,1,,,,,drupe,fruit,endozoochory,10,12,10,12,,,mm,6,,6,,3,,mm,,
+Balanopaceae,Balanops balansae,,Thomas Ibanez,Carlquist (1980),endemic,1,,,,,drupe,fruit,endozoochory,15,,10,,,,mm,,,,,,,,,
+Balanopaceae,Balanops oliviformis,,Thomas Ibanez,Carlquist (1980),endemic,1,,,,,drupe,fruit,endozoochory,20,28,15,20,,,mm,1.5,2,,,,,cm,,
+Balanopaceae,Balanops pachyphylla,,Thomas Ibanez,Carlquist (1980),endemic,1,,,,,drupe,fruit,endozoochory,20,,14,,,,mm,1.7,,,,,,mm,,
+Balanopaceae,Balanops sparsiflora,,Thomas Ibanez,Carlquist (1980),endemic,1,,,,,drupe,fruit,endozoochory,8,17,5,12,,,mm,,,,,,,,,
+Balanopaceae,Balanops vieillardii,,Sébastien Goizé,Carpenter 2003,endemic,1,,,,,drupe,fruit,endozoochory,,,17.9,32.8,11.1,20,mm,2.6,16.2,,,,,mm,,
+Euphorbiaceae,Baloghia inophylla,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (McPherson and Tirel, 1987)",native,,1,1,,,capsule,seed,endozoochory,11,13,13,15,,,mm,8,6,,,,,mm,,
+Euphorbiaceae,Baloghia montana,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (McPherson and Tirel, 1987)",endemic,,1,1,,,capsule,seed,endozoochory,10,,,,,,mm,4.5,5,3,,,,mm,,
+Lecythidaceae,Barringtonia longifolia,,Sébastien Goizé,Prance (2012)/Endémia,endemic,1,,,,,fleshy fruit,fruit,endozoochory,18,20,,,,,mm,,,,,,,,,
+Lecythidaceae,Barringtonia neocaledonica,,Sébastien Goizé,Prance (2012)/Endémia,endemic,,,,,,fleshy fruit,fruit,hydrochory,5.5,6,1.75,2,1,1.25,cm,4.5,,1,,,,cm,,
+Proteaceae,Beauprea filipes,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Virot, 1968)",endemic,1,,,,,drupe,fruit,endozoochory,22,25,20,25,,,mm,,,,,,,,,
+Proteaceae,Beauprea montana,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Virot, 1968)",endemic,1,,,,,drupe,fruit,endozoochory,10,12,7,9,,,mm,,,,,,,,,
+Lauraceae,Beilschmiedia neocaledonica,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (Kostermans, 1974)/Kaoh_2017",endemic,1,,,,,fleshy fruit,fruit,endozoochory,2,,,,,,cm,,,,,,,,,1
+Lauraceae,Beilschmiedia oreophila,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (Kostermans, 1974)/Kaoh_2017/Endémia/Virot",endemic,1,,,,,fleshy fruit,fruit,endozoochory,13.2,31,11.3,30.5,,,mm,,,,,,,,,1
+Phyllanthaceae,Bischofia javanica,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Schmid, 1991)",native,1,,,,,berry,fruit,endozoochory,6,7,6,,,,mm,3,,2,,,,mm,3,6
+Calophyllaceae,Calophyllum caledonicum,,Sébastien Goizé,Endémia/Carpenter 2003,endemic,1,,,,,drupe,fruit,endozoochory,20,,25,,,,mm,,,,,,,,,
+Burseraceae,Canarium oleiferum,,Sébastien Goizé,Leenhouts (1955)/Carpenter 2003,endemic,1,,,,,drupe,fruit,endozoochory,25.9,30.6,21.1,26.8,,,mm,,,,,,,,,
+Burseraceae,Canarium trifoliolatum,,Thomas Ibanez,Leenhouts (1955),endemic,1,,,,,drupe,fruit,endozoochory,35,,,,,,mm,,,,,,,,,
+Salicaceae,Casearia deplanchei,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Lescot, 1980)",endemic,,,1,,,capsule,fruit,endozoochory,0.4,,,,,,mm,,,,,,,,,
+Salicaceae,Casearia puberula,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Lescot, 1980)",endemic,,1,1,,,capsule,seed,endozoochory,,,,,,,,4,,,,,,mm,12,15
+Salicaceae,Casearia silvana,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Lescot, 1980)",endemic,,1,1,,,capsule,seed,endozoochory,1,1.5,,,,,cm,4,,,,,,mm,,
+Cannabaceae,Celtis balansae,,Sébastien Goizé,MNHN/Sébastien Goizé mesure MPU,endemic,1,,,,,drupe,fruit,endozoochory,7,7.5,6,8,,,mm,,,,,,,,,
+Cannabaceae,Celtis conferta,,Thomas Ibanez,Flora of Australia (Oceanic Islands),native,1,,,,,drupe,fruit,endozoochory,6,7,,,,,mm,,,,,,,,,
+Cannabaceae,Celtis paniculata,,Thomas Ibanez,Flora of Australia (Oceanic Islands),native,1,,,,,drupe,fruit,endozoochory,8,10,,,,,mm,,,,,,,,,
+Apocynaceae,Cerberiopsis candelabra,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Boiteau, 1981)",endemic,,,,,1,samara,fruit,anemochory,22,,4,6,,,mm,20,21,4,5,,,mm,,
+Oleaceae,Chionanthus brachystachys,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Green, 1998)",endemic,1,,,,,drupe,fruit,endozoochory,2,4.5,1,2,,,cm,,,,,,,,,
+Oleaceae,Chionanthus pedunculatus,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Green, 1998)",endemic,1,,,,,drupe,fruit,endozoochory,4,6,2,2.8,,,cm,,,,,,,,,
+Cardiopteridaceae,Citronella macrocarpa,,Sébastien Goizé,Virot/Endémia/Flore_NC,endemic,1,,,,,drupe,fruit,endozoochory,23,11,,,,,mm,,,,,,,,,
+Euphorbiaceae,Claoxylon insulanum,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (McPherson and Tirel, 1987)",endemic,,1,,,,capsule,seed,,4,5,,,,,mm,2.5,,,,,,mm,,
+Euphorbiaceae,Cleidion spathulatum,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (McPherson and Tirel, 1987)",endemic,,1,1,,,capsule,seed,endozoochory,5,,,,,,mm,4,,4,,3,,mm,,
+Phyllanthaceae,Cleistanthus stipitatus,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (Schmid, 1991)/Kaoh_2017/Carpenter_2003/Virot",endemic,,,,1,,capsule,fruit,endozoochory,5,8,7,9,,,mm,4.9,,31.7,,,,mm,,
+Cunoniaceae,Codia discolor,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (Hopkins et al., 2014)/Carpenter 2003",endemic,,1,,,,capsule,seed,anemochory,,,,,,,,3.6,4.8,2.7,3.6,,,mm,,
+Cunoniaceae,Codia jaffrei,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (Hopkins et al., 2014)/Endémia",endemic,,,,,,dry fruit,fruit,anemochory,,,,,,,,,,,,,,,,
+Cunoniaceae,Codia spatulata,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hopkins et al., 2014)",endemic,,,,,1,dry fruit,fruit,anemochory,,,,,,,,,,,,,,,,
+Euphorbiaceae,Codiaeum peltatum,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (McPherson and Tirel, 1987)",endemic,,1,1,,,capsule,seed,endozoochory,5,7,7,10,,,mm,5,6,4,,,,mm,,
+Rutaceae,Comptonella drupacea,,Thomas Ibanez,Hartley (1983),endemic,1,,,,,drupe,fruit,endozoochory,5.5,8,,,,,mm,4.5,6.5,,,,,mm,,
+Rutaceae,Comptonella microcarpa,,Thomas Ibanez,Hartley (1983),endemic,1,,,,,drupe,fruit,endozoochory,5,6,,,,,mm,3.5,4,,,,,mm,,
+Boraginaceae,Cordia dichotoma,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Heine, 1976)",native,1,,,,,drupe,fruit,endozoochory,10,15,,,,,mm,,,,,,,,,
+Gesneriaceae,Coronanthera deltoidifolia,,Sébastien Goizé,Woo (2007)/Kaoh_2017,endemic,,1,,,,capsule,seed,anemochory,0.7,,0.4,,,,cm,,,,,,,,,
+Corynocarpaceae,Corynocarpus dissimilis,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Villiers, 1980)",endemic,1,,,,,drupe,fruit,endozoochory,40,,25,,20,,mm,,,,,,,,,1
+Rutaceae,Crossosperma velutina,,Thomas Ibanez,Hartley (1997),endemic,1,,,,,drupe,fruit,endozoochory,20,35,,,,,mm,11,15,8,10,,,mm,1,2
+Rhizophoraceae,Crossostylis grandiflora,,Sébastien Goizé,Carpenter 2003/Brongniart (1870),endemic,,1,1,,,dehiscent fruit,seed,endozoochory,7.1,7.5,7,7,,,mm,,,,,,,,,
+Rhizophoraceae,Crossostylis multiflora,,Sébastien Goizé,Virot/Flore_NC/Sebert and Pancher (1874),endemic,,,1,,,capsule,fruit,barochory/endozoochory,3.3,8.5,2.9,6.2,,,mm,,,,,,,,,
+Rhizophoraceae,Crossostylis seberti,,Sébastien Goizé,Kubitzki 2011/Endémia/Virot/Hequet_com_pers,endemic,,,1,,,capsule,seed,endozoochory,,,,,,,,,,,,,,,,
+Lauraceae,Cryptocarya adpressa,,Thomas Ibanez,Munzinger and McPherson (2016),endemic,1,,,,,fleshy fruit,fruit,endozoochory,2,2.5,2,2.1,,,cm,,,,,,,,,1
+Lauraceae,Cryptocarya aristata,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Kostermans, 1974)",endemic,1,,,,,fleshy fruit,fruit,endozoochory,2.5,4,,,,,cm,,,,,,,,,1
+Lauraceae,Cryptocarya barrabeae,,Sébastien Goizé,herbier de Nouméa/Munzinger and McPherson (2016),endemic,1,,,,,fleshy fruit,fruit,endozoochory,,,,,,,,,,,,,,,,
+Lauraceae,Cryptocarya chrysea,,Thomas Ibanez,Munzinger and McPherson (2016),endemic,1,,,,,fleshy fruit,fruit,endozoochory,2.5,3,2.3,3.3,,,cm,,,,,,,,,1
+Lauraceae,Cryptocarya elliptica,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Kostermans, 1974)",endemic,1,,,,,fleshy fruit,fruit,endozoochory,,1.5,,,,,cm,,,,,,,,,1
+Lauraceae,Cryptocarya gracilis,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Kostermans, 1974)",endemic,1,,,,,fleshy fruit,fruit,endozoochory,21,,12,,,,mm,,,,,,,,,1
+Lauraceae,Cryptocarya guillauminii,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (Kostermans, 1974)/Flore_NC/Kaoh_2017",endemic,1,,,,,fleshy fruit,fruit,endozoochory,20,25,,25,,,mm,,,,,,,,,1
+Lauraceae,Cryptocarya longifolia,,Sébastien Goizé,"Endemia/Kaoh_2017/Flore de la Nouvelle-Caledonie (Kostermans, 1974)",endemic,1,,,,,fleshy fruit,fruit,endozoochory,,13,,17,,,mm,,,,,,,,,1
+Lauraceae,Cryptocarya mackeei,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Kostermans, 1974)",endemic,1,,,,,fleshy fruit,fruit,endozoochory,,2,,3,,,cm,,,,,,,,,1
+Lauraceae,Cryptocarya macrodesme,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Kostermans, 1974)",endemic,1,,,,,fleshy fruit,fruit,endozoochory,,2.5,,4.5,,,cm,,,,,,,,,1
+Lauraceae,Cryptocarya odorata,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Kostermans, 1974)",endemic,1,,,,,fleshy fruit,fruit,endozoochory,,12,,,,,mm,,,,,,,,,1
+Lauraceae,Cryptocarya oubatchensis,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Kostermans, 1974)",endemic,1,,,,,fleshy fruit,fruit,endozoochory,,17,,30,,,mm,,,,,,,,,1
+Lauraceae,Cryptocarya pluricostata,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Kostermans, 1974)",endemic,1,,,,,fleshy fruit,fruit,endozoochory,,9,,18,,,mm,,,,,,,,,1
+Lauraceae,Cryptocarya transversa,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (Kostermans, 1974)/Endémia/Kaoh_2017/Carpenter 2003",endemic,1,,,,,fleshy fruit,fruit,endozoochory,,2,,3,,,cm,,,,,,,,,1
+Lauraceae,Cryptocarya velutinosa,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Kostermans, 1974)",endemic,1,,,,,fleshy fruit,fruit,endozoochory,,3.5,,2.5,,,cm,,,,,,,,,1
+Cunoniaceae,Cunonia aoupiniensis,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hopkins et al., 2014)",endemic,,1,,,1,capsule,seed,anemochory,4,7.5,1.6,2.2,,,mm,3,,0.6,,,,mm,,
+Cunoniaceae,Cunonia austrocaledonica,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hopkins et al., 2014)",endemic,,1,,,1,capsule,seed,anemochory,3.5,5,1.5,2,,,mm,2,2.5,0.5,0.7,,,mm,,
+Cunoniaceae,Cunonia balansae,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hopkins et al., 2014)",endemic,,1,,,1,capsule,seed,anemochory,4,7,3,4,,,mm,1.5,2,0.4,0.7,,,mm,,
+Cunoniaceae,Cunonia linearisepala,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hopkins et al., 2014)",endemic,,1,,,1,capsule,seed,anemochory,3.5,4,2.5,2.8,,,mm,2.5,,0.7,,,,mm,,
+Cunoniaceae,Cunonia montana,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hopkins et al., 2014)",endemic,,1,,,1,capsule,seed,anemochory,4.5,6.5,1.8,3,,,mm,2,2.8,0.5,0.7,,,mm,,
+Cunoniaceae,Cunonia pulchella,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hopkins et al., 2014)",endemic,,1,,,1,capsule,seed,anemochory,2.5,3.7,1.8,2.6,,,mm,1.3,2,0.4,0.6,,,mm,,
+Cunoniaceae,Cunonia varijuga,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hopkins et al., 2014)",endemic,,1,,,1,capsule,seed,anemochory,2.5,3.5,2.5,3,,,mm,,,,,,,,,
+Sapindaceae,Cupaniopsis apiocarpa,,Thomas Ibanez,Adema (1991),endemic,,1,1,,,capsule,seed,endozoochory,23,,15,18,,,mm,15,,8,,,,mm,,
+Sapindaceae,Cupaniopsis azantha,,Sébastien Goizé,Sébastien Goizé mesure site herbier de Nouméa/Adema (1991),endemic,,1,1,,,capsule,seed,endozoochory,10,,,,,,mm,,,,,,,,,
+Sapindaceae,Cupaniopsis chytradenia,,Thomas Ibanez,Adema (1991),endemic,,1,1,,,capsule,seed,endozoochory,,,,,,,,,,,,,,,,
+Sapindaceae,Cupaniopsis macrocarpa,,Thomas Ibanez,Adema (1991),endemic,,1,1,,,capsule,seed,endozoochory,20,30,13,20,,,mm,12,16,6,9,,,mm,1,3
+Sapindaceae,Cupaniopsis petiolulata,,Thomas Ibanez,Adema (1991),endemic,,1,1,,,capsule,seed,endozoochory,19,30,17,20,,,mm,15,21,7,10.5,,,mm,,
+Sapindaceae,Cupaniopsis phalacrocarpa,,Thomas Ibanez,Adema (1991),endemic,,1,1,,,capsule,seed,endozoochory,22,30,17,20,,,mm,17,18,8,10,,,mm,1,3
+Sapindaceae,Cupaniopsis sylvatica,,Thomas Ibanez,Adema (1991),endemic,,1,1,,,capsule,seed,endozoochory,20,26,15,20,,,mm,14,19,8,10,,,mm,,
+Sapindaceae,Cupaniopsis trigonocarpa,,Thomas Ibanez,Adema (1991),endemic,,1,1,,,capsule,seed,endozoochory,22,26,15,19,,,mm,13,,8,,,,mm,,
+Podocarpaceae,Dacrydium araucarioides,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (de Laubenfels, 1972)/Endémia/Virot",endemic,,,1,1,,cone,seed,endozoochory,,,,,,,,8,12,4,8,,,mm,,
+Myodocarpaceae,Delarbrea harmsii,,Sébastien Goizé,herbier de Nouméa/Lowry II and Plunkett (2018)/Sébastien Goizé mesure site herbier de Nouméa,endemic,1,,,,,drupe,fruit,endozoochory,5,7,6,7,,,mm,,,,,,,,,
+Urticaceae,Dendrocnide peltata,,Sébastien Goizé,Guide to trees of Papua New Guinea/Flora of Australia,native,1,,1,,,fleshy fruit,fruit,endozoochory,2,,,,,,mm,2,,2,,,,mm,,1
+Gesneriaceae,Depanthus glaber,,Sébastien Goizé,Woo (2007)/Kaoh_2017,endemic,,1,,,,capsule,seed,barochory/endozoochory,0.9,1.1,0.6,0.8,,,cm,0.7,0.9,0.5,0.7,,,mm,,
+Bignoniaceae,Deplanchea speciosa,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Heine, 1976)",endemic,,1,,,1,capsule,seed,anemochory,150,170,30,,,,mm,30,,20,,,,mm,,
+Celastraceae,Dicarpellum pancheri,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Simmons, 2004)",endemic,,1,1,,,capsule,seed,endozoochory,12,30,6,14,,,mm,6,7,3,4,,,mm,,
+Meliaceae,Didymocheton bijugum,Dysoxylum bijugum,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Mabberley, 1988)",native,,1,1,,,capsule,seed,endozoochory,2,2.5,,,,,cm,1.8,2,,,,,cm,4,5
+Meliaceae,Didymocheton canalense,Dysoxylum canalense,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Mabberley, 1988)",endemic,,1,1,,,capsule,seed,endozoochory,20,30,20,25,,,mm,,,,,,,,3,
+Meliaceae,Didymocheton kouiriense,Dysoxylum kouiriense,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Mabberley, 1988)",endemic,,1,1,,,capsule,seed,endozoochory,8,,,,,,cm,,,,,,,,4,
+Meliaceae,Didymocheton macranthum,Dysoxylum macranthum,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Mabberley, 1988)",endemic,,1,1,,,capsule,seed,endozoochory,3,,,,,,cm,18,,14,,,,mm,3,4
+Meliaceae,Didymocheton macrostachyum,Dysoxylum macrostachyum,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Mabberley, 1988)",endemic,,1,1,,,capsule,seed,endozoochory,4.5,,,,,,cm,2.5,,,,,,cm,,4
+Meliaceae,Didymocheton minutiflorum,Dysoxylum minutiflorum,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Mabberley, 1988)",endemic,,1,1,,,capsule,seed,endozoochory,3,4,,,,,cm,12,,,,,,mm,3,4
+Meliaceae,Didymocheton pachypodum,Dysoxylum pachypodum,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Mabberley, 1988)",endemic,,1,1,,,capsule,seed,endozoochory,12,,,,,,mm,10,,5,,,,mm,1,4
+Meliaceae,Didymocheton roseus,Dysoxylum roseum,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Mabberley, 1988)",endemic,,1,1,,,capsule,seed,endozoochory,1.5,2.2,,,,,cm,,,,,,,,1,4
+Meliaceae,Didymocheton rufescens,Dysoxylum rufescens,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Mabberley, 1988)",endemic,,1,1,,,capsule,seed,endozoochory,2,,,,,,cm,,,,,,,,4,5
+Ebenaceae,Diospyros brassica,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (White, 1993)",endemic,1,,,,,berry,fruit,endozoochory,,6,,3,,,cm,,,,,,,,,
+Ebenaceae,Diospyros fasciculosa,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (White, 1993)",native,1,,,,,berry,fruit,endozoochory,9.1,14.5,,,,,mm,,,,,,,,,
+Ebenaceae,Diospyros flavocarpa,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (White, 1993)",endemic,1,,,,,berry,fruit,endozoochory,,1.5,,1.2,,,cm,,,,,,,,,
+Ebenaceae,Diospyros macrocarpa,,Sébastien Goizé,Carpenter 2003,endemic,1,,,,,berry,fruit,endozoochory,36.2,52.6,18.9,32,,,mm,,,,,,,,,
+Ebenaceae,Diospyros oubatchensis,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (White, 1993)",endemic,1,,,,,berry,fruit,endozoochory,,5.5,,2.5,,,cm,,,,,,,,,
+Ebenaceae,Diospyros parviflora,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (White, 1993)",endemic,1,,,,,berry,fruit,endozoochory,,2.2,,1.6,,,cm,,,,,,,,,
+Ebenaceae,Diospyros rufotomentosa,,Thomas Ibanez,Schatz and Lowry II (2018),endemic,1,,,,,berry,fruit,endozoochory,13,18,13,20,,,mm,8,11,5,6,,,mm,,
+Ebenaceae,Diospyros samoensis,Diospyros olen,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (White, 1993)",native,1,,,,,berry,fruit,endozoochory,,3.5,,,,,cm,,,,,,,,,
+Ebenaceae,Diospyros tireliae,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (White, 1993)",endemic,1,,,,,berry,fruit,endozoochory,,1.5,,1.3,,,cm,,,,,,,,,
+Ebenaceae,Diospyros trisulca,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (White, 1993)/Endémia",endemic,1,,,,,berry,fruit,endozoochory,18,,15,,,,mm,,,,,,,,,
+Ebenaceae,Diospyros vieillardii,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (White, 1993)",endemic,1,,,,,berry,fruit,endozoochory,,1.2,,,,,cm,,,,,,,,,6
+Ericaceae,Dracophyllum verticillatum,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (Virot, 1975)/Endémia",endemic,,1,,,,capsule,seed,barochory,1,4,,,,,mm,,,,,,,,,
+Putranjivaceae,Drypetes deplanchei,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Schmid, 1991)",native,1,,,,,drupe,fruit,endozoochory,11,13,6,7,,,mm,10,11,5,,,,mm,,
+Solanaceae,Duboisia myoporoides,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Heine, 1976)",native,1,,,,,berry,fruit,endozoochory,4,,,,,,mm,2,,0.8,,,,mm,10,12
+Rutaceae,Dutaillyea amosensis,,Thomas Ibanez,Hartley (1984),endemic,1,,,,,drupe,fruit,endozoochory,1.5,2,,,,,cm,6.5,,,,,,mm,,
+Elaeocarpaceae,Elaeocarpus alaternoides,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,1,1.8,0.8,1.2,,,cm,,,,,,,,,1
+Elaeocarpaceae,Elaeocarpus angustifolius,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",native,1,,,,,drupe,fruit,endozoochory,1,2,,,,,cm,,,,,,,,,1
+Elaeocarpaceae,Elaeocarpus dognyensis,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,1.5,1.2,,,,,cm,,,,,,,,,1
+Elaeocarpaceae,Elaeocarpus guillainii,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,2,3,1.2,1.8,,,cm,,,,,,,,,1
+Elaeocarpaceae,Elaeocarpus leratii,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,3,4,2,2.5,,,cm,,,,,,,,,1
+Elaeocarpaceae,Elaeocarpus moratii,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,5,,4.5,,,,cm,2.5,,2,,,,cm,,1
+Elaeocarpaceae,Elaeocarpus nodosus,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,2,,1.8,,,,cm,,,,,,,,,1
+Elaeocarpaceae,Elaeocarpus ovigerus,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,4,,2.5,,,,cm,,,,,,,,1,2
+Elaeocarpaceae,Elaeocarpus rotundifolius,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,1.5,,1,,,,cm,,,,,,,,,1
+Elaeocarpaceae,Elaeocarpus speciosus,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,2.5,4,1.8,3,,,cm,,,,,,,,,1
+Elaeocarpaceae,Elaeocarpus toninensis,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,1.7,,1.1,,,,cm,,,,,,,,,1
+Elaeocarpaceae,Elaeocarpus vieillardii,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,2,,1.2,,,,cm,,,,,,,,,1
+Elaeocarpaceae,Elaeocarpus yateensis,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,1,4,,,,,cm,,,,,,,,,1
+Sapindaceae,Elattostachys apetala,,Thomas Ibanez,Adema (1993),native,,1,1,,,capsule,seed,endozoochory,13,15,10,14,,,mm,,,,,,,,,
+Lauraceae,Endiandra baillonii,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (Kostermans, 1974)/Endémia",endemic,1,,,,,drupe,fruit,endozoochory,3.5,13,2,7,,,cm,,,,,,,,,
+Lauraceae,Endiandra polyneura,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Kostermans, 1974)",endemic,1,,,,,fleshy fruit,fruit,endozoochory,,3,,5,,,cm,,,,,,,,,1
+Lauraceae,Endiandra sebertii,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (Kostermans, 1974)/Endémia",endemic,1,,,,,drupe,fruit,endozoochory,1.5,,5,,,,cm,,,,,,,,,1
+Myrtaceae,Eugenia brongniartiana,,Sébastien Goizé,Virot/Flore_NC/herbier de Nouméa,endemic,1,,,,,berry,fruit,endozoochory,17.4,44.4,7.1,15.7,,,mm,,,,,,,,,1
+Myrtaceae,Eugenia mouensis,,Sébastien Goizé,MNHN/herbier de Noumea,endemic,1,,,,,fleshy fruit,fruit,endozoochory,2,2.5,3,3.5,,,cm,,,,,,,,,
+Myrtaceae,Eugenia ovigera,,Sébastien Goizé,Virot/Dawson_ined/Sebert and Pancher (1874),endemic,1,,,,,berry,fruit,endozoochory,13,30,12,20,,,mm,,,,,,,,,
+Myrtaceae,Eugenia paludosa,,Sébastien Goizé,Carpenter 2003/herbier de Noumea,endemic,1,,,,,berry,fruit,endozoochory,18.7,28,18.5,26.6,,,mm,,,,,,,,,
+Rubiaceae,Eumachia collina,,Sébastien Goizé,Endémia,endemic,1,,,,,fleshy fruit,fruit,endozoochory,6,6.1,5.7,6,,,mm,,,,,,,,,2
+Anacardiaceae,Euroschinus elegans,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hoff, 1997)",endemic,1,,,,,drupe,fruit,endozoochory,,10,,6,,,mm,,,,,,,,,1
+Anacardiaceae,Euroschinus obtusifolius,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hoff, 1997)",endemic,1,,,,,drupe,fruit,endozoochory,,8,,5,,,mm,,,,,,,,,1
+Anacardiaceae,Euroschinus verrucosus,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hoff, 1997)",endemic,1,,,,,drupe,fruit,endozoochory,15,,6,,4,,mm,,,,,,,,,1
+Anacardiaceae,Euroschinus vieillardii,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hoff, 1997)",endemic,1,,,,,drupe,fruit,endozoochory,10,12,7,8,5,,mm,,,,,,,,,1
+Gentianaceae,Fagraea berteroana,,Thomas Ibanez,Flora of Australia,native,1,,,,,berry,fruit,endozoochory,45,,,,,,mm,1,,,,,,mm,,
+Podocarpaceae,Falcatifolium taxoides,,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (de Laubenfels, 1972)/Endemia/Carpenter 2003",endemic,,,1,,,cone,seed,endozoochory,,,,,,,,4.7,7.4,2.7,4.8,,,mm,,
+Moraceae,Ficus austrocaledonica,,Thomas Ibanez,Corner (1970),endemic,1,,,,,figue,fruit,endozoochory,17,,15,20,,,mm,,,,,,,,,
+Moraceae,Ficus habrophylla,,Thomas Ibanez,Corner (1970),endemic,1,,,,,figue,fruit,endozoochory,,,20,50,,,mm,1.5,,0.8,,,,mm,,
+Moraceae,Ficus leiocarpa,,Thomas Ibanez,Corner (1970),endemic,1,,,,,figue,fruit,endozoochory,40,45,30,33,,,mm,1.2,1.5,1,1.2,,,mm,,
+Moraceae,Ficus mutabilis,,Thomas Ibanez,Corner (1970),endemic,1,,,,,figue,fruit,endozoochory,,,10,12,,,mm,,,,,,,,,
+Moraceae,Ficus nitidifolia,,Thomas Ibanez,Corner (1970),endemic,1,,,,,figue,fruit,endozoochory,9,12,,,,,mm,,,,,,,,,
+Moraceae,Ficus obliqua,,Sébastien Goizé,Endémia,native,1,,,,,figue,fruit,endozoochory,6,13,,,,,mm,,,,,,,,,
+Moraceae,Ficus otophora,,Thomas Ibanez,Corner (1970),endemic,1,,,,,figue,fruit,endozoochory,13,,20,,,,mm,,,,,,,,,
+Moraceae,Ficus pancheriana,,Thomas Ibanez,Corner (1970),endemic,1,,,,,figue,fruit,endozoochory,12,15,,,,,mm,,,,,,,,,
+Moraceae,Ficus racemigera,,Thomas Ibanez,Corner (1970),endemic,1,,,,,figue,fruit,endozoochory,8,13,,,,,mm,,,,,,,,,
+Moraceae,Ficus versicolor,,Thomas Ibanez,Corner (1970),endemic,1,,,,,figue,fruit,endozoochory,9,11,7,9,,,mm,,,,,,,,,
+Moraceae,Ficus vieillardiana,,Thomas Ibanez,Corner (1970),endemic,1,,,,,figue,fruit,endozoochory,7,10,,,,,mm,,,,,,,,,
+Moraceae,Ficus virgata,,Thomas Ibanez,Flora of Australia,native,1,,,,,figue,fruit,endozoochory,1,1.7,0.7,1.8,,,cm,,,,,,,,,
+Rutaceae,Flindersia fournieri,,Sébastien Goizé,Carpenter 2003,endemic,,1,,,1,capsule,seed,anemochory,32.3,52.8,19.8,29.7,,,mm,4.7,13.8,,,,,mm,,
+Euphorbiaceae,Fontainea pancheri,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (McPherson and Tirel, 1987)",native,1,,,,,drupe,fruit,endozoochory,2,4,1.5,3,,,cm,,,,,,,,,
+Clusiaceae,Garcinia amplexicaulis,,Sébastien Goizé,Virot/Flore_NC,endemic,1,,,,,berry,fruit,endozoochory,17,27.3,14.5,33,,,mm,,,,,,,,,
+Clusiaceae,Garcinia balansae,,Sébastien Goizé,Carpenter 2003/Virot,endemic,1,,,,,drupe,fruit,endozoochory,4.8,18.4,3.4,17.9,,,mm,,,,,,,,,
+Clusiaceae,Garcinia densiflora,,Sébastien Goizé,Flore_NC/Virot,endemic,1,,,,,berry,fruit,endozoochory,2.5,25.7,2.1,22.4,,,mm,,,,,,,,,
+Clusiaceae,Garcinia hennecartii,,Jérôme Munzinger,"Munzinger pers. comm., Virot, MNHN",endemic,,1,1,,,capsule,seed,endozoochory,12.3,22,10,20.1,,,,,,,,,,,,
+Clusiaceae,Garcinia neglecta,,Jérôme Munzinger,"Munzinger pers. comm., Virot, MNHN, Carpenter 2003",endemic,,1,1,,,capsule,seed,endozoochory,6.6,36.5,5.5,42.3,,,mm,6.8,14.5,,,,,mm,,
+Clusiaceae,Garcinia pedicellata,,Sébastien Goizé,Endémia,endemic,1,,,,,berry,fruit,endozoochory,30,,,,,,mm,,,,,,,,4,
+Clusiaceae,Garcinia puat,,Sébastien Goizé,Flore_NC/Virot/MNHN,endemic,1,,,,,berry,fruit,endozoochory,7,30,6,22.4,,,mm,,,,,,,,,
+Clusiaceae,Garcinia vieillardii,,Sébastien Goizé,Endemia/MNHN/Sébastien Goizé mesure site herbier de Nouméa,endemic,1,,,,,fleshy fruit,fruit,endozoochory,22,,,,,,mm,,,,,,,,,
+Clusiaceae,Garcinia virgata,,Thomas Ibanez,Munzinger et al. (2021),endemic,1,1,1,1,,capsule,seed,endozoochory,8,12,11,18,,,mm,8,11,3,5,,,mm,1,4
+Rubiaceae,Gardenia aubryi,,Sébastien Goizé,Carpenter 2003/Flore_NC,endemic,1,1,,,,fleshy fruit,seed,endozoochory,38.1,54.6,29.2,42.6,,,mm,,,,,,,,,
+Rubiaceae,Gardenia oudiepe,,Sébastien Goizé,Flore_NC/herbier de Nouméa/Endémia/Virot,endemic,1,1,1,,,dehiscent fruit,seed,endozoochory,46.4,83,22,52,,,mm,,,,,,,,,
+Stemonuraceae,Gastrolepis austrocaledonica,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Villiers, 1980 )",endemic,1,,,,,drupe,fruit,endozoochory,1.5,,0.6,,,,cm,,,,,,,,,
+Rutaceae,Geijera balansae,,Sébastien Goizé,herbier de Nouméa/Flore_NC/Virot,endemic,,1,,,,dry fruit,seed,,61.9,103.5,41.8,68.5,,,mm,3.7,4.5,4.7,6,,,mm,,
+Cunoniaceae,Geissois montana,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (Hopkins et al., 2014)/Carpenter 2003",endemic,,1,,,1,capsule,seed,anemochory,15,27,4,5,,,mm,5.1,,6.6,,,,mm,,
+Cunoniaceae,Geissois racemosa,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hopkins et al., 2014)",endemic,,1,,,1,capsule,seed,anemochory,15,33,4,5,,,mm,,6,,2,,,mm,,
+Lamiaceae,Gmelina evoluta,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Mabberley, 2004)",endemic,1,,,,,drupe,fruit,endozoochory,15,,12,,,,mm,,,,,,,,,
+Lauraceae,Gmelina magnifica,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (Mabberley, 2004)/Endémia",endemic,1,,,,,drupe,fruit,endozoochory,35,,,,,,mm,,,,,,,,,
+Sapindaceae,Gongrodiscus bilocularis,,Thomas Ibanez,Turner and van der Ham (1996),endemic,,1,1,,,capsule,seed,endozoochory,0.9,1.8,1.1,1.8,,,cm,9,12,5.5,7,,,mm,,
+Sapindaceae,Gongrodiscus parvifolius,,Thomas Ibanez,Turner and van der Ham (1996),endemic,,1,1,,,capsule,seed,endozoochory,1.1,1.6,1.1,1.3,,,cm,9.5,,5.5,,,,mm,,
+Sapindaceae,Gongrodiscus sufferrugineus,,Thomas Ibanez,Turner and van der Ham (1996),endemic,,1,1,,,capsule,seed,endozoochory,0.9,1.8,0.7,1.1,,,cm,7,10,5.5,7.5,,,mm,1,2
+Annonaceae,Goniothalamus obtusatus,,Sébastien Goizé,Saunders comm. pers./Endémia,endemic,1,,,,,fleshy fruit,fruit,endozoochory,29,54.5,22,30.5,,,mm,24.5,39.5,14.5,19,,,mm,1,3
+Myrtaceae,Gossia clusioides,,Thomas Ibanez,Snow (2020),endemic,1,,,,,berry,fruit,endozoochory,7,17,7,15,,,mm,,,,,,,,1,3
+Myrtaceae,Gossia vieillardii,,Thomas Ibanez,Snow (2020),native,1,,,,,berry,fruit,endozoochory,5,12,6.5,10,,,mm,,,,,,,,1,2
+Proteaceae,Grevillea meisneri,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Virot, 1968)/Bruy",endemic,,1,,,1,follicle,seed,anemochory,,15,,8,,,mm,,,,,,,,,
+Rubiaceae,Guettarda baladensis,,Sébastien Goizé,Endémia,endemic,1,,,,,fleshy fruit,fruit,endozoochory,11,13,10,11,,,mm,,,,,,,,,
+Rubiaceae,Guettarda eximia,,Sébastien Goizé,Carpenter 2003,endemic,1,,,,,fleshy fruit,fruit,endozoochory,24.1,48.8,20.4,37.7,,,mm,,,,,,,,,
+Rubiaceae,Guettarda splendens,,Sébastien Goizé,Endemia/herbier de Noumea/Sébastien Goizé mesure site herbier de Nouméa,endemic,1,,,,,fleshy fruit,fruit,endozoochory,27,,,,,,mm,,,,,,,,,
+Rubiaceae,Guettarda wagapensis,,Sébastien Goizé,Flore_NC/herbier de Nouméa/Endémia/Virot,endemic,1,,,,,fleshy fruit,fruit,endozoochory,16.2,40.1,9.1,29,,,mm,,,,,,,,,
+Sapindaceae,Guioa crenata,,Thomas Ibanez,van Welzen (1989),endemic,,1,1,,,capsule,seed,endozoochory,1,1.2,1.6,1.8,,,cm,8,8.8,4.5,7,,,mm,?1,?3
+Sapindaceae,Guioa glauca,,Thomas Ibanez,van Welzen (1989),endemic,,1,1,,,capsule,seed,endozoochory,1,2.1,0.9,2.6,,,cm,6.7,9.2,4.8,6.5,,,mm,?1,?3
+Sapindaceae,Guioa microsepala,,Thomas Ibanez,van Welzen (1989),endemic,,1,1,,,capsule,seed,endozoochory,1.2,1.7,1,1.7,,,cm,6.8,10,5,6.5,,,mm,?1,?3
+Sapindaceae,Guioa ovalis,,Thomas Ibanez,van Welzen (1989),native,,1,1,,,capsule,seed,endozoochory,1.7,2.4,1.7,2.9,,,cm,14,15,10,10.8,,,mm,?1,?3
+Sapindaceae,Guioa villosa,,Thomas Ibanez,van Welzen (1989),endemic,,1,1,,,capsule,seed,endozoochory,0.8,1.6,1,1.8,,,cm,6.2,8.9,4.4,5.7,,,mm,?1,?3
+Casuarinaceae,Gymnostoma chamaecyparis,,Sébastien Goizé,Endémia,endemic,,,,,,cone,seed,anemochory,,,,,,,,,,,,,,,,
+Casuarinaceae,Gymnostoma intermedium,,Sébastien Goizé,Carpenter 2003/MNHN,endemic,,,,,1,samara,fruit,anemochory,,,,,,,,,,,,,,,,
+Hernandiaceae,Gyrocarpus americanus,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Jérémie, 1988)",native,1,,,,1,drupe,fruit,anemochory,1.5,2,1,1.5,,,cm,,,,,,,,,
+Rutaceae,Halfordia kendack,,Thomas Ibanez,Flora of Australia,native,1,,,,,drupe,fruit,endozoochory,8,12,,,,,mm,3.5,5,,,,,mm,,
+Sapindaceae,Harpullia austrocaledonica,,Sébastien Goizé,Endémia/Baillon (1874),endemic,,1,1,,,capsule,seed,endozoochory,3,,,,,,cm,,,,,,,,,
+Monimiaceae,Hedycarya chrysophylla,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Jérémie, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,5,8,,,,,mm,5,,,,,,mm,,1
+Monimiaceae,Hedycarya cupulata,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Jérémie, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,3,10,,,,,mm,,,,,,,,,1
+Monimiaceae,Hedycarya engleriana,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Jérémie, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,7.5,9.5,,,,,mm,,,,,,,,,1
+Monimiaceae,Hedycarya parvifolia,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Jérémie, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,5,18,,,,,mm,,,,,,,,,1
+Hernandiaceae,Hernandia cordigera,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Jérémie, 1988)",endemic,1,,,,,drupe,fruit,endozoochory,2,3,2,3,1,2,cm,1.5,2,1,1.2,,,mm,,
+Dilleniaceae,Hibbertia emarginata,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Veillon, 1990)",endemic,,1,1,,,follicle,seed,endozoochory,,,,,,,,,,,,,,,,
+Dilleniaceae,Hibbertia lucens,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Veillon, 1990)",native,,1,1,,,follicle,seed,endozoochory,,1,,,,,cm,,,,,,,,1,3
+Dilleniaceae,Hibbertia pancheri,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Veillon, 1990)",endemic,,1,1,,,follicle,seed,endozoochory,,1,,,,,cm,,,,,,,,1,2
+Dilleniaceae,Hibbertia podocarpifolia,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Veillon, 1990)",endemic,,1,1,,,follicle,seed,endozoochory,,1,,,,,cm,,,,,,,,2,4
+Salicaceae,Homalium decurrens,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Lescot, 1980)",endemic,,1,,,,capsule,seed,anemochory,10,12,,,,,mm,,,,,,,,,
+Salicaceae,Homalium deplanchei,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (Lescot, 1980)/Hequet_com_pers/Kaoh_2017",endemic,,1,,,,capsule,seed,anemochory/barochory,5,6,,,,,mm,,,,,,,,,
+Salicaceae,Homalium guillainii,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (Lescot, 1980)/Hequet_com_pers/Kaoh_2017",endemic,,1,,,,capsule,seed,anemochory/barochory,,,,,,,,,,,,,,,,
+Salicaceae,Homalium intermedium,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (Lescot, 1980)/Kaoh_2017",endemic,,1,,,,capsule,seed,anemochory/barochory,7,,,,,,mm,,,,,,,,,
+Annonaceae,Huberantha nitidissima,,Sébastien Goizé,AUSTRALIAN TROPICAL RAINFOREST PLANTS HOME,native,1,,,,,fleshy fruit,fruit,endozoochory,8,6,10,9,,,mm,6,7,5,6,,,mm,,
+Chrysobalanaceae,Hunga gerontogea,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Prance, 1983)",endemic,1,,,,,drupe,fruit,endozoochory,11,15,,,,,mm,,,,,,,,,
+Chrysobalanaceae,Hunga rhamnoides,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Prance, 1983)",endemic,1,,,,,drupe,fruit,endozoochory,17,22,,,,,mm,,,,,,,,,
+Aquifoliaceae,Ilex sebertii,,Sébastien Goizé,Sebert and Pancher (1874)/Endémia/Flore_NC/Kaoh_2017,endemic,1,,,,,fleshy fruit,fruit,endozoochory,6,13,5.3,13.2,,,mm,,,,,,,,,
+Rhamnaceae,Jaffrea xerocarpa,,Sébastien Goizé,Carpenter 2003/Hopkins et al. (2015)/herbier de Noumea,endemic,,1,1,1,,capsule,seed,endozoochory,9.6,11.8,6,7.7,,,mm,2,3,1.5,2,,,mm,,3
+Myrtaceae,Kanakomyrtus longipetiolata,,Thomas Ibanez,Snow (2009),endemic,1,,,,,berry,fruit,endozoochory,6,14,5,10,,,mm,2,2.5,0.5,,,,,,300
+Proteaceae,Kermadecia elliptica,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Virot, 1968)",endemic,1,,,,,drupe,fruit,endozoochory,45,55,25,30,,,mm,,,,,,,,,1
+Proteaceae,Kermadecia rotundifolia,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Virot, 1968)",endemic,1,,,,,drupe,fruit,endozoochory,35,45,21,27,,,mm,,,,,,,,,1
+Proteaceae,Kermadecia sinuata,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Virot, 1968)",endemic,1,,,,,drupe,fruit,endozoochory,40,50,25,30,,,mm,,,,,,,,,1
+Monimiaceae,Kibaropsis caledonica,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Jérémie, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,18,20,15,,10,,mm,15,18,10,12,,,mm,,1
+Salicaceae,Lasiochlamys reticulata,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Lescot, 1980)",endemic,1,,,,,berry,fruit,endozoochory,,,,,,,,,,,,,,,,
+Thymelaeaceae,Lethedon balansae,Microsemma balansae,Sébastien Goizé,Baillon (1874)/Kaoh_2017/herbier de Noumea/Bruy pers com,endemic,,1,1,,,follicle,seed,endozoochory,2,,,,,,cm,,,,,,,,,
+Thymelaeaceae,Lethedon cernua,Microsemma cernua,Sébastien Goizé,Baillo (1874)/herbier de Noumea/Bruy pers comm,endemic,,1,1,,,dehiscent fruit,seed,endozoochory,,,,,,,,,,,,,,,,
+Cupressaceae,Libocedrus austrocaledonica,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (de Laubenfels, 1972)",endemic,,,,,1,cone,seed,anemochory,10,12,,,,,mm,6,,2.5,,,,mm,,
+Euphorbiaceae,Macaranga alchorneoides,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (McPherson and Tirel, 1987)",endemic,,1,,,,capsule,seed,barochory,9,11,16,,,,mm,7,9,,,,,mm,,
+Euphorbiaceae,Macaranga coriacea,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (McPherson and Tirel, 1987)",endemic,,1,,,,capsule,seed,barochory,5,6,11,,,,mm,3,4.5,,,,,mm,,
+Euphorbiaceae,Macaranga corymbosa,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (McPherson and Tirel, 1987)",endemic,,1,,,,capsule,seed,barochory,6,8,8,12,,,mm,4,4.5,,,,,mm,,
+Euphorbiaceae,Mallotus repandus,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (McPherson and Tirel, 1987)",native,,1,1,,,capsule,seed,endozoochory,5,7,9,12,,,mm,4,5,,,,,mm,,
+Calophyllaceae,Mammea neurophylla,,Sébastien Goizé,Virot/Hequet comm. pers.,endemic,1,,,,,berry,fruit,endozoochory,5.6,42.5,2.3,26,,,mm,,,,,,,,,
+Malvaceae,Maxwellia lepidota,,Sébastien Goizé,herbier de Nouméa/Endémia/Baillon and Savy (1871),endemic,,,,,1,samara,fruit,anemochory,3,,1.5,2,,,cm,,,,,,,,,
+Annonaceae,Meiogyne baillonii,,Sébastien Goizé,van Heusden (1996)/Endémia/herbier de Nouméa,endemic,1,,,,,fleshy fruit,fruit,endozoochory,8,50,8,18,,,mm,,,,,,,,1,6
+Annonaceae,Meiogyne lecardii,,Sébastien Goizé,van Heusden (1996)/herbier de Nouméa,endemic,1,,,,,fleshy fruit,fruit,endozoochory,17,30,16,26,,,mm,,,,,,,,2,3
+Annonaceae,Meiogyne punctulata,Meiogyne tiebaghiensis,Sébastien Goizé,van Heudsen (1996)/Virot/Flore_NC/Hequet_com_pers/herbier de Nouméa,endemic,1,,,,,fleshy fruit,fruit,endozoochory,10,90,8,30,,,mm,,,,,,,,1,9
+Myrtaceae,Melaleuca quinquenervia,,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Dawson, 1992)/Melaleuca quinquenervia: INTRODUCTION (usda.gov)",native,,1,,,,capsule,seed,anemochory,,3,4,5,,,mm,1.2,,0.3,,,,mm,,
+Araliaceae,Meryta balansae,,Sébastien Goizé,Plunkett et al. (2018)/Virot,endemic,1,,,,,drupe,fruit,endozoochory,5,7.2,3.6,6.3,,,mm,,,,,,,,,
+Araliaceae,Meryta oxylaena,,Thomas Ibanez,Plunkett et al. (2018)/Sébastien Goizé mesure site herbier de Nouméa,endemic,1,,,,,drupe,fruit,endozoochory,3,,,,,,mm,,,,,,,,,
+Araliaceae,Meryta pedunculata,,Sébastien Goizé,Plunkett et al. (2018)/Sébastien Goizé mesure site herbier de Nouméa,endemic,1,,,,,drupe,fruit,endozoochory,6,,,,,,mm,,,,,,,,,
+Myrtaceae,Metrosideros brevistylis,,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Dawson, 1992)/Kaoh_2017",endemic,,1,,,,capsule,seed,anemochory,3,4,3,4,,,mm,1.2,,0.3,,,,mm,,
+Myrtaceae,Metrosideros engleriana,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1992)",endemic,,1,,,,capsule,seed,barochory,4,5,4,5,,,mm,1.7,,0.6,,,,mm,,
+Myrtaceae,Metrosideros laurifolia,Carpolipis laurifolia,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Dawson, 1992)/Kaoh_2017",endemic,,1,,,,capsule,seed,anemochory,5,8,8,12,,,mm,2.5,3,0.7,1,,,mm,,
+Myrtaceae,Metrosideros nitida,,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Dawson, 1992)/Hequet_com_pers",endemic,,1,,,,capsule,seed,anemochory/barochory,5,,5,,,,mm,2,,0.3,,,,mm,,
+Myrtaceae,Metrosideros operculata     ,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1992)",endemic,,1,,,,capsule,seed,anemochory/barochory,3.5,5,3.5,6,,,mm,0.8,,0.3,,,,mm,,
+Myrtaceae,Metrosideros tardiflora,Carpolipis tardiflora,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Dawson, 1992)/Kaoh_2017",endemic,,1,,,,capsule,seed,anemochory,4,,8,,,,mm,3.5,,1,,,,mm,,
+Sapotaceae,Mimusops elengi,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Aubréville, 1967)",native,1,,,,,berry,fruit,endozoochory,,25,,15,,,mm,,,,,,,,,1
+Clusiaceae,Montrouziera cauliflora,,Sébastien Goizé,Virot/MNHN/herbier de Nouméa/Flore_NC,endemic,1,,,,,fleshy fruit,fruit,endozoochory,7,40,6.4,21,,,mm,,,,,,,,,
+Clusiaceae,Montrouziera gabriellae,,Sébastien Goizé,herbier de Nouméa/Carpenter 2003/Baillon (1874)/Flore_NC,endemic,1,,,,,fleshy fruit,fruit,endozoochory,44,83,38,56,,,mm,,,,,,,,,
+Clusiaceae,Montrouziera sphaeroidea,,Sébastien Goizé,Endemia/Virot/Pignal 2018,endemic,,1,1,,,capsule,seed,endozoochory,,,,,,,,16,,10,,8,,mm,,
+Myodocarpaceae,Myodocarpus fraxinifolius,,Sébastien Goizé,Lowry II and Plunkett (2018)/Carpenter 2003/Virot,endemic,,,,,1,dry fruit,fruit,anemochory,5.9,14.1,4.8,13.2,,,mm,,,,,,,,,
+Myodocarpaceae,Myodocarpus gracilis,,Thomas Ibanez,Lowry II and Plunkett (2018),endemic,,,,,1,dry fruit,fruit,anemochory,,,,,,,,,,,,,,,,
+Myodocarpaceae,Myodocarpus involucratus,,Sébastien Goizé,Virot/Lowry II and Plunkett (2018),endemic,,,,,1,dry fruit,fruit,anemochory,84.6,121.3,56.8,112.3,,,mm,,,,,,,,,
+Myodocarpaceae,Myodocarpus pinnatus,,Thomas Ibanez,Lowry II and Plunkett (2018),endemic,,,,,1,dry fruit,fruit,anemochory,,,,,,,,,,,,,,,,
+Myodocarpaceae,Myodocarpus simplicifolius,,Thomas Ibanez,Lowry II and Plunkett (2018),endemic,,,,,1,dry fruit,fruit,anemochory,,,,,,,,,,,,,,,,
+Myodocarpaceae,Myodocarpus vieillardii,,Thomas Ibanez,Lowry II and Plunkett (2018),endemic,,,,,1,dry fruit,fruit,anemochory,,,,,,,,,,,,,,,,
+Primulaceae,Myrsine arborea,Rapanea arborea,Thomas Ibanez,Schmid (2009),endemic,1,,,,,drupe,fruit,endozoochory,3,4,,,,,mm,,,,,,,,,1
+Primulaceae,Myrsine asymmetrica,Rapanea asymmetrica,Thomas Ibanez,Schmid (2009),endemic,1,,,,,drupe,fruit,endozoochory,2,4,,,,,mm,,,,,,,,,1
+Primulaceae,Myrsine citrifolia,Rapanea citrifolia,Thomas Ibanez,Schmid (2009),endemic,1,,,,,drupe,fruit,endozoochory,6,10,,,,,mm,,,,,,,,,1
+Primulaceae,Myrsine lanceolata,Rapanea lanceolata,Thomas Ibanez,Schmid (2009),endemic,1,,,,,drupe,fruit,endozoochory,6,8,,,,,mm,,,,,,,,,1
+Primulaceae,Myrsine modesta,Rapanea modesta,Thomas Ibanez,Schmid (2009),native,1,,,,,drupe,fruit,endozoochory,2.5,4,,,,,mm,,,,,,,,,1
+Primulaceae,Myrsine ovicarpa,Rapanea ovicarpa,Thomas Ibanez,Schmid (2009),endemic,1,,,,,drupe,fruit,endozoochory,8,15,14,19,,,mm,,,,,,,,,1
+Primulaceae,Myrsine parvicarpa,Rapanea parvicarpa,Thomas Ibanez,Schmid (2009),endemic,1,,,,,drupe,fruit,endozoochory,3,4,,,,,mm,,,,,,,,,1
+Atherospermataceae,Nemuaron vieillardii,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (Jérémie, 1982)/Carpenter 2003",endemic,1,,,1,,fleshy fruit,fruit,endozoochory,6.5,12.3,4.8,7.7,,,mm,2,,,,,,mm,,
+Euphorbiaceae,Neoguillauminia cleopatra,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (McPherson and Tirel, 1987)",endemic,,1,1,,,capsule,seed,endozoochory,12,16,12,17,,,mm,6,7,4,6,,,mm,,
+Loganiaceae,Neuburgia novocaledonica,,Thomas Ibanez,Molina and Struwe (2004),native,1,,,,,drupe,fruit,endozoochory,2,2.2,0.9,1.1,,,cm,,,,,,,,,
+Nothofagaceae,Nothofagus aequilateralis,,Thomas Ibanez,van Steenis (1971),endemic,,1,,,1,capsule,seed,anemochory,10,14,8,10,,,mm,10,14,8,13,,,mm,,
+Nothofagaceae,Nothofagus balansae,,Thomas Ibanez,van Steenis (1971),endemic,,1,,,1,capsule,seed,anemochory,15,20,12,17,,,mm,12,18,10,18,,,mm,,
+Apocynaceae,Ochrosia balansae,,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Boiteau, 1981)/Endémia",endemic,1,,,,1,fleshy fruit,fruit,endozoochory/hydrochory,30,,,35,,10,mm,30,,35,,10,,mm,,
+Apocynaceae,Ochrosia brevituba,Neiosperma brevituba,Sébastien Goizé,Flore de la Nouvelle-Calédonie/Kaoh_2017,endemic,1,,,,,fleshy fruit,fruit,endozoochory,40,,30,,30,,mm,,,,,,,,,
+Apocynaceae,Ochrosia grandiflora,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Boiteau, 1981)",endemic,1,,,,,fleshy fruit,fruit,endozoochory/hydrochory,45,,25,,8,10,mm,,,,,,,,,
+Apocynaceae,Ochrosia miana,Neiosperma miana,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Boiteau, 1981)",endemic,1,,,,,fleshy fruit,fruit,endozoochory/hydrochory,50,,40,,35,,mm,,,,,,,,,
+Oleaceae,Olea paniculata,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Green, 1998)",native,1,,,,,drupe,fruit,endozoochory,1.2,1.5,0.5,0.6,,,cm,,,,,,,,,
+Oncothecaceae,Oncotheca balansae,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Morat & Veillon, 1989)",endemic,1,,,,,drupe,fruit,endozoochory,1.5,2,0.8,1.2,,,cm,4.5,,,,,,mm,,1
+Oncothecaceae,Oncotheca humboldtiana,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Morat & Veillon, 1989)",endemic,1,,,,,drupe,fruit,endozoochory,1.9,3.6,2.1,2.4,,,cm,15,,,,,,mm,,1
+Oleaceae,Osmanthus austrocaledonicus,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Green, 1998)",endemic,1,,,,,drupe,fruit,endozoochory,7,12,4,7,,,mm,,,,,,,,,
+Oleaceae,Osmanthus cymosus,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Green, 1998)",endemic,1,,,,,drupe,fruit,endozoochory,2,,1.2,,,,cm,,,,,,,,,
+Cunoniaceae,Pancheria ajiearoana,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hopkins et al., 2014)",endemic,,1,,,1,follicle,seed,anemochory,6,,2.8,,,,mm,,,,,,,,,
+Cunoniaceae,Pancheria brunhesii,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hopkins et al., 2014)",endemic,,1,,,1,follicle,seed,anemochory,3,4,2,,,,mm,1,,0.5,,,,mm,,
+Cunoniaceae,Pancheria reticulata,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hopkins et al., 2014)",endemic,,1,,,1,follicle,seed,anemochory,3.5,5,2,3,,,mm,3.5,,1.3,,,,mm,,
+Cunoniaceae,Pancheria ternata,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hopkins et al., 2014)",endemic,,1,,,1,follicle,seed,anemochory,4.5,7,2.5,4,,,mm,3,,1,,,,mm,,
+Paracryphiaceae,Paracryphia alticola,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Jérémie, 1996)",endemic,,1,,,1,capsule,seed,anemochory,8,18,,,,,mm,1.5,2.5,,,,,mm,,
+Phellinaceae,Phelline barrierei,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Barriera, 2020)",endemic,1,,,,,drupe,fruit,endozoochory,7,8,8,9,,,mm,,,,,,,,,
+Phyllanthaceae,Phyllanthus billardierei,Glochidion billardierei,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Schmid, 1991)",endemic,,1,1,,,capsule,seed,endozoochory,3,4,7,12,,,mm,4,,3,,,,mm,,
+Phyllanthaceae,Phyllanthus caledonicus,Glochidion caledonicum,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Schmid, 1991)",endemic,,1,1,,,capsule,seed,endozoochory,4,,5,8,,,mm,3.5,,3,,3,,mm,,
+Phyllanthaceae,Phyllanthus deplanchei,,Sébastien Goizé,"Flore de la Nouvelle-Calédonie (Schmid, 1991)/Kaoh_2017",endemic,1,,,,,fleshy fruit,fruit,endozoochory,3,5,,,,,mm,2,2.5,,,,,mm,,
+Sapotaceae,Pichonia daenikeri,Planchonella dänikeri,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Aubréville, 1967)/Sébastien Goizé mesure site herbier de Nouméa",endemic,1,,,,,berry,fruit,endozoochory,14,16,,,,,mm,,,,,,,,,
+Rutaceae,Picrella glandulosa,,Thomas Ibanez,Hartley and Mabberley (2003),endemic,1,,,,,drupe,fruit,endozoochory,3,4.5,,,,,mm,2,3,,,,,mm,1,2
+Rutaceae,Picrella ignambiensis,,Thomas Ibanez,Hartley and Mabberley (2003),endemic,1,,,,,drupe,fruit,endozoochory,2.5,3,,,,,mm,2,2.5,,,,,mm,,1
+Urticaceae,Pipturus argenteus,,Sébastien Goizé,Guide to trees of Papua New Guinea/Flora of Australia/herbier de Nouméa,native,,,1,,,dry fruit,fruit,endozoochory,0.7,1,,,,,mm,,,,,,,,,
+Pittosporaceae,Pittosporum mackeei,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 2002)",endemic,,1,1,,,capsule,seed,endozoochory,,,,,,,,,,,,,,,,
+Pittosporaceae,Pittosporum oreophilum,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 2002)",endemic,,1,1,,,capsule,seed,endozoochory,1,2,1,2,,,cm,4,6,,,,,mm,15,35
+Sapotaceae,Planchonella amieuana,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Aubréville, 1967)",endemic,1,,,,,berry,fruit,endozoochory,,,,,,,,,,,,,,,,
+Sapotaceae,Planchonella endlicheri,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Aubréville, 1967)",endemic,1,,,,,berry,fruit,endozoochory,40,40,20,30,,,mm,15,30,10,14,7,10,mm,3,5
+Sapotaceae,Planchonella kuebiniensis,,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Aubréville, 1967)/Virot",endemic,1,,,,,berry,fruit,endozoochory,26.1,42.1,6,13.3,,,mm,,,,,,,,,
+Sapotaceae,Planchonella luteocostata,,Thomas Ibanez,Swenson et al. (2007),endemic,1,,,,,berry,fruit,endozoochory,25,33,15,22,,,mm,18,21,6,9,,,mm,1,5
+Sapotaceae,Planchonella roseoloba,,Thomas Ibanez,Swenson et al. (2007),endemic,1,,,,,berry,fruit,endozoochory,45,50,22,32,,,mm,27,,8,,,,mm,1,5
+Sapotaceae,Planchonella rufocostata,,Thomas Ibanez,Swenson et al. (2007),endemic,1,,,,,berry,fruit,endozoochory,43,,22,,,,mm,14,24,3,5,,,mm,1,5
+Sapotaceae,Planchonella sphaerocarpa,Pyriluma sphaerocarpum,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Aubréville, 1967)",endemic,1,,,,,berry,fruit,endozoochory,50,,,,,,,23,30,12,18,10,,mm,4,5
+Sapotaceae,Planchonella thiensis,,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Aubréville, 1967)/Carpenter 2003",endemic,1,,,,,berry,fruit,endozoochory,24.2,37.9,22.4,35.3,,,mm,,,,,,,,,
+Sapotaceae,Planchonella wakere,Bureavella wakere,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Aubréville, 1967)",endemic,1,,,,,berry,fruit,endozoochory,60,,30,40,,,mm,25,40,12,1.5,,,mm,1,3
+Anacardiaceae,Pleiogynium timoriense,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hoff, 1997)",native,1,,,,,drupe,fruit,endozoochory,20,25,20,38,,,mm,,,,,,,,1,12
+Sapotaceae,Pleioluma lasiantha,Beccariella lasiantha,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Aubréville, 1967)/Sébastien Goizé mesure herbier de Nouméa",endemic,1,,,,,berry,fruit,endozoochory,5,6,5,7,,,mm,,,,,,,,1,4
+Sapotaceae,Pleioluma longipetiolata,Beccariella longipetiolata,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Aubréville, 1967)/Virot",endemic,1,,,,,berry,fruit,endozoochory,18,22,7.2,12.3,,,mm,,,,,,,,1,4
+Sapotaceae,Pleioluma novocaledonica,,Thomas Ibanez,Swenson et al. (2018),endemic,1,,,,,berry,fruit,endozoochory,10,12,5,6,,,mm,,,,,,,,,1
+Sapotaceae,Pleioluma rubicunda,Beccariella rubicunda,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Aubréville, 1967)",endemic,1,,,,,berry,fruit,endozoochory,2.5,,,,,,cm,2,,1,,0.7,,cm,1,4
+Araliaceae,Plerandra {gordonii},,Thomas Ibanez,Lowry II comm. pers.,endemic,1,,,,,drupe,fruit,endozoochory,9,13,5,7,,,mm,,,,,,,,,
+Araliaceae,Plerandra {moratiana},,Thomas Ibanez,Lowry II comm. pers.,endemic,1,,,,,drupe,fruit,endozoochory,6,9,4.5,6.5,,,mm,,,,,,,,,
+Araliaceae,Plerandra crassipes,,Thomas Ibanez,Lowry II comm. pers.,endemic,1,,,,,drupe,fruit,endozoochory,8,14,3.5,14,,,mm,,,,,,,,,
+Araliaceae,Plerandra gabriellae,,Thomas Ibanez,Lowry II comm. pers.,endemic,1,,,,,drupe,fruit,endozoochory,11,28,10,21,,,mm,,,,,,,,,
+Araliaceae,Plerandra leptophylla,,Thomas Ibanez,Lowry II comm. pers.,endemic,1,,,,,drupe,fruit,endozoochory,4,5,5,6,,,mm,,,,,,,,,
+Araliaceae,Plerandra pancheri,,Thomas Ibanez,Lowry II comm. pers.,endemic,1,,,,,drupe,fruit,endozoochory,4.3,9.2,4.6,11.3,,,mm,,,,,,,,,
+Araliaceae,Plerandra plerandroides,,Thomas Ibanez,Lowry II comm. pers.,endemic,1,,,,,drupe,fruit,endozoochory,5.3,9.5,5.7,11.9,,,mm,,,,,,,,,
+Araliaceae,Plerandra taomensis,,Thomas Ibanez,Lowry II comm. pers.,endemic,1,,,,,drupe,fruit,endozoochory,8,10,4,7.5,,,mm,,,,,,,,,
+Myrtaceae,Pleurocalyptus pancheri,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1992)",endemic,,1,,,,capsule,seed,barochory,15,23,19,25,,,mm,,,,,,,,,
+Celastraceae,Pleurostylia opposita,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Müller, 1996)",native,,,,,,nut,fruit,endozoochory,5,7,4,6,,,mm,3.5,5,2,2.5,,,mm,1,2
+Podocarpaceae,Podocarpus lucienii,,Sébastien Goizé,"Endémia/Flore de la Nouvelle-Calédonie (de Laubenfels, 1972)",endemic,,,1,,,cone,seed,endozoochory,,,,,,,,15,,10,,,,mm,,
+Podocarpaceae,Podocarpus polyspermus,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (de Laubenfels, 1972)",endemic,,,1,,,cone,seed,endozoochory,,,,,,,,8,,6,,,,mm,1,3
+Podocarpaceae,Podocarpus sylvestris,,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (de Laubenfels, 1972)/Endémia",endemic,,,1,,,cone,seed,endozoochory,,,,,,,,10,16,7,9,,,mm,,
+Sapindaceae,Podonephelium concolor,,Thomas Ibanez,Muzinger et al. (2013),endemic,,1,1,,,capsule,seed,endozoochory,10,12,,,,,mm,8,9.5,,,,,mm,,1
+Sapindaceae,Podonephelium pachycaule,,Thomas Ibanez,Muzinger et al. (2013),endemic,,1,1,,,capsule,seed,endozoochory,9,12,,,,,mm,8,9.5,,,,,mm,,1
+Sapindaceae,Podonephelium subaequilaterum,,Sébastien Goizé,Munzinger et al. (2013)/Endémia,endemic,,1,1,,,capsule,seed,endozoochory,8,,,,,,mm,,,,,,,,,1
+Escalloniaceae,Polyosma leratii,,Sébastien Goizé,Guillaumin (1920)/Flore_NC/Virot,endemic,1,,,,,berry,fruit,endozoochory,5.6,13.2,4.8,13,,,mm,,,,,,,,,
+Escalloniaceae,Polyosma spicata,,Sébastien Goizé,Baillon (1872)/herbier de Noumea,endemic,1,,,,,fleshy fruit,fruit,endozoochory,5,,,,,,mm,,,,,,,,,
+Araliaceae,Polyscias bracteata,,Thomas Ibanez,Lowry II comm. pers.,endemic,1,,,,,drupe,fruit,endozoochory,3.5,6.5,4,5,,,mm,,,,,,,,,
+Araliaceae,Polyscias cissodendron,,Sébastien Goizé,Flora of Australia (Oceanic Islands)/Lowry II comm. pers.,native,1,,,,,drupe,fruit,endozoochory,2.5,4.5,2.8,4,,,mm,,,,,,,,,
+Araliaceae,Polyscias dioica,,Thomas Ibanez,Lowry II comm. pers.,endemic,1,,,,,drupe,fruit,endozoochory,3,6.5,3.5,6,,,mm,,,,,,,,,
+Araliaceae,Polyscias lecardii,,Thomas Ibanez,Lowry II comm. pers.,endemic,1,,,,,drupe,fruit,endozoochory,3,5,2.5,4,,,mm,,,,,,,,,
+Rubiaceae,Psychotria canalensis,,Sébastien Goizé,herbier de Nouméa/Sébastien Goizé mesure site herbier de Nouméa/Bruy pers com,endemic,1,,,,,fleshy fruit,fruit,endozoochory,5,8,15,,,,mm,,,,,,,,,
+Sapotaceae,Pycnandra acuminata,Sebertia acuminata,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Aubréville, 1967)/Swenson and Munzinger (2010) - Adansonia",endemic,1,,,,,berry,fruit,endozoochory,25,40,15,20,,,mm,30,,,,,,mm,,1
+Sapotaceae,Pycnandra balansae,Niemeyera balansae,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Aubréville, 1967)",endemic,1,,,,,berry,fruit,endozoochory,5,,1.5,,,,cm,4,,1,,,,cm,,1
+Sapotaceae,Pycnandra benthamii,,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Aubréville, 1967)/Sébastien Goizé mesure site herbier de Nouméa",endemic,1,,,,,berry,fruit,endozoochory,8,,,,,,mm,,,,,,,,,
+Sapotaceae,Pycnandra canaliculata,,Thomas Ibanez,Swenson and Munzinger (2010) - Adansonia,endemic,1,,,,,berry,fruit,endozoochory,40,70,20,35,,,mm,,,,,,,,,
+Sapotaceae,Pycnandra carinocostata,,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Aubréville, 1967)/Swenson and Munzinger (2010) - AusSystBot",endemic,1,,,,,berry,fruit,endozoochory,10,20,7,10,,,mm,,,,,,,,,
+Sapotaceae,Pycnandra comptonii,,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Aubréville, 1967)/Virot",endemic,1,,,,,berry,fruit,endozoochory,26,44.1,13.2,27.4,,,mm,,,,,,,,,
+Sapotaceae,Pycnandra controversa,,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Aubréville, 1967)/Endémia",endemic,1,,,,,berry,fruit,endozoochory,30,20,,,,,mm,,,,,,,,,
+Sapotaceae,Pycnandra fastuosa,,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Aubréville, 1967)/Swenson and Munzinger (2010) - AusSystBot",endemic,1,,,,,berry,fruit,endozoochory,35,67,20,40,,,mm,,,,,,,,,1
+Sapotaceae,Pycnandra gordoniifolia,Ochrothallus gordoniaefolius,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Aubréville, 1967)/Flore_NC",endemic,1,,,,,fleshy fruit,fruit,endozoochory,12.1,45,33.4,69.3,,,mm,,,,,,,,,
+Sapotaceae,Pycnandra pubiflora,,Thomas Ibanez,Swenson and Munzinger (2010) - AusSystBot,endemic,1,,,,,berry,fruit,endozoochory,25,35,20,25,,,mm,,,,,,,,,
+Sapotaceae,Pycnandra sarlinii,Ochrothallus sarlinii,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Aubréville, 1967)/herbier de Noumea",endemic,1,,,,,berry,fruit,endozoochory,10,11,,,,,mm,,25,,12,,7,mm,4,5
+Sapotaceae,Pycnandra sessiliflora,,Thomas Ibanez,Swenson and Munzinger (2010) - AusSystBot,endemic,1,,,,,berry,fruit,endozoochory,18,22,8,12,,,mm,,,,,,,,,
+Sapotaceae,Pycnandra sessilifolia,Ochrothallus sessilifolius,Sébastien Goizé,"Swenson and Munzinger (2010) - AusSystBot/Flore de la Nouvelle-Calédonie (Aubréville, 1967)/Carpenter 2003",endemic,1,,,,,berry,fruit ,endozoochory,18,30.6,8,19.9,,,mm,,,,,,,,,
+Apocynaceae,Rauvolfia balansae,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Boiteau, 1981)",endemic,1,,,,,drupe,fruit,endozoochory,16,18,8,9,,,mm,,,,,,,,,
+Podocarpaceae,Retrophyllum comptonii,,Sébastien Goizé,Mill (2016),endemic,1,,,,,fleshy fruit,fruit,endozoochory,20,25,13,20,,,mm,,,,,,,,,1
+Myrtaceae,Rhodamnia andromedoides,,Thomas Ibanez,Scott (1979),endemic,1,,,,,berry,fruit,endozoochory,4,5,,,,,mm,3,,,,,,mm,2,4
+Rutaceae,Sarcomelicope follicularis,,Sébastien Goizé,MNHN Mackee 1973/Hartley (1982)/herbier de Nouméa/Sébastien Goizé mesure site herbier de Nouméa,endemic,1,,,,,fleshy fruit,fruit,endozoochory,4,,,,,,mm,,,,,,,,,
+Rutaceae,Sarcomelicope leiocarpa,,Thomas Ibanez,Hartley (1982),endemic,1,,,,,drupe,fruit,endozoochory,1,,,,,,cm,5,,,,,,mm,,
+Rutaceae,Sarcomelicope simplicifolia,,Thomas Ibanez,Hartley (1982),native,1,,,,,drupe,fruit,endozoochory,1,1.5,,,,,cm,5,7,,,,,mm,,
+Goodeniaceae,Scaevola balansae,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Müller, 1990)",endemic,1,,,,,fleshy fruit,fruit,endozoochory,4,6,3,4,,,mm,4.5,3,,,,,,,2
+Goodeniaceae,Scaevola erosa,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Müller, 1990)",endemic,1,,,,,fleshy fruit,fruit,endozoochory,3,4,3,,,,mm,3,,3,3.5,,,mm,,2
+Araliaceae,Schefflera candelabrum,,Sébastien Goizé,MNHN/Flore_NC/plunkett et al. (2018)/Sébastien Goizé mesure site herbier de Nouméa,endemic,1,,,,,drupe,fruit,endozoochory,,,,,,,,,,,,,,,,
+Araliaceae,Schefflera pseudocandelabrum,,Sébastien Goizé,plunkett et al. (2018)/Sébastien Goizé mesure site herbier de Nouméa,endemic,1,,,,,drupe,fruit,endozoochory,3,,3.5,,,,mm,,,,,,,,,
+Araliaceae,Schefflera vieillardii,,Sébastien Goizé,plunkett et al. (2018)/Sébastien Goizé mesure site herbier de Nouméa,endemic,1,,,,,drupe,fruit,endozoochory,2,,4,,,,mm,,,,,,,,,
+Anacardiaceae,Semecarpus atra,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hoff, 1997)",endemic,1,,,1,,drupe,fruit,endozoochory,15,20,30,35,10,,mm,,,,,,,,,1
+Anacardiaceae,Semecarpus balansae,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hoff, 1997)",endemic,1,,,1,,drupe,fruit,endozoochory,15,20,25,,,,mm,,,,,,,,,1
+Anacardiaceae,Semecarpus neocaledonica,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hoff, 1997)",endemic,1,,,1,,drupe,fruit,endozoochory,25,30,25,30,5,10,mm,,,,,,,,,1
+Fabaceae,Serianthes calycina,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Prance, 1983)",endemic,,1,,,,pod,seed,,13,19,2.8,5.3,,,cm,11,18,7,10,,,mm,,
+Proteaceae,Sleumerodendron austrocaledonicum,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Virot, 1968)",endemic,1,,,,,drupe,fruit,endozoochory,30,45,25,35,,,mm,,,,,,,,,
+Elaeocarpaceae,Sloanea haplopoda,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,,1,1,,,capsule,seed,endozoochory,3,,,,,,cm,,,,,,,,,
+Elaeocarpaceae,Sloanea koghiensis,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,,1,1,,,capsule,seed,endozoochory,3,,3.5,,,,cm,,,,,,,,,
+Elaeocarpaceae,Sloanea lepisda,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,,1,1,,,capsule,seed,endozoochory,2.5,,,,,,cm,,,,,,,,,
+Elaeocarpaceae,Sloanea magnifolia,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,,1,1,,,capsule,seed,endozoochory,4,,,,,,cm,,,,,,,,,
+Elaeocarpaceae,Sloanea ramiflora,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,,1,1,,,capsule,seed,endozoochory,3,,,,,,cm,,,,,,,,,
+Elaeocarpaceae,Sloanea raynaliana,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,,1,1,,,capsule,seed,endozoochory,2,4,,,,,cm,,,,,,,,,
+Simaroubaceae,Soulamea tomentosa,,Sébastien Goizé,herbier de Nouméa,endemic,,,,,1,dry fruit,fruit,anemochory,,,,,,,,,,,,,,,,
+Simaroubaceae,Soulamea trifoliata,,Sébastien Goizé,Endemia/Kaoh_2017/herbier de Noumea,endemic,,,,,1,samara,fruit,anemochory,,,,,,,,,,,,,,,,
+Moraceae,Sparattosyce balansae,,Sébastien Goizé,Endemia/herbier de Noumea/Flore_NC/Sébastien Goizé mesure site herbier de Nouméa,endemic,1,1,,,,fleshy fruit,fruit,endozoochory,6,,,,,,mm,,,,,,,,,
+Moraceae,Sparattosyce dioica,,Sébastien Goizé,Endémia/Flore_NC/Carpenter 2003/Virot,endemic,1,1,1,,,figue,seed,endozoochory,22.3,49.7,7.9,14.3,,,mm,2.3,19.2,,,,,mm,,
+Paracryphiaceae,Sphenostemon comptonii,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Jérémie, 1997)/Sébastien Goizé mesure site herbier de Nouméa",endemic,1,,,,,drupe,fruit,endozoochory,8,10,11,,,,mm,,,,,,,,,
+Paracryphiaceae,Sphenostemon pachycladum,Sphenostemon pachycladus,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Jérémie, 1997)",endemic,1,,,,,drupe,fruit,endozoochory,14,22,7,10,,,mm,,15,,7,,4,mm,2,
+Cunoniaceae,Spiraeanthemum densiflorum,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hopkins et al., 2014)",endemic,,1,,,1,follicle,seed,anemochory,2.2,3.5,0.8,1.6,,,mm,0.8,,0.4,0.5,,,mm,,
+Proteaceae,Stenocarpus trinervis,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Virot, 1968)",endemic,,1,,,1,follicle,seed,anemochory,40,100,3,5,,,mm,,,,,,,,,
+Fabaceae,Storckiella pancheri,,Sébastien Goizé,Nielsen et al. (2005)/Munzinger_pers_comm,endemic,,1,,,,pod,fruit,anemochory,3,11,2,4.5,,,cm,11,,9,,2.5,,mm,1,4
+Sapindaceae,Storthocalyx chryseus,,Thomas Ibanez,Muzinger et al. (2016),endemic,,1,1,,,capsule,seed,endozoochory,15,22,17,21,,,mm,13,15,9,,5,,mm,?1,?3
+Sapindaceae,Storthocalyx corymbosus,,Thomas Ibanez,Muzinger et al. (2016),endemic,,1,1,,,capsule,seed,endozoochory,10,14,9,14,,,mm,,,,,,,,?1,?3
+Sapindaceae,Storthocalyx leioneurus,,Thomas Ibanez,Muzinger et al. (2016),endemic,,1,1,,,capsule,seed,endozoochory,10,12,10,18,,,mm,9,,8,,5,,mm,?1,?3
+Sapindaceae,Storthocalyx pancheri,,Thomas Ibanez,Muzinger et al. (2016),endemic,,1,1,,,capsule,seed,endozoochory,25,45,22,28,,,mm,9,11,5,9,2,,mm,?1,?3
+Sapindaceae,Storthocalyx sordidus,,Thomas Ibanez,Muzinger et al. (2016),endemic,,1,1,,,capsule,seed,endozoochory,13,22,13,18,,,mm,10,,5,,4,,mm,?1,?3
+Ericaceae,Styphelia balansae,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Virot, 1975)",endemic,1,,,,,drupe,fruit,endozoochory,4,6,,,,,mm,,,,,,,,,
+Ericaceae,Styphelia cymbulae,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Virot, 1975)",endemic,1,,,,,drupe,fruit,endozoochory,2,4,,,,,mm,,,,,,,,,
+Ericaceae,Styphelia pancheri,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Virot, 1975)",endemic,1,,,,,drupe,fruit,endozoochory,3,4,,,,,mm,,,,,,,,,
+Symplocaceae,Symplocos arborea,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Nooteboom, 1980)",endemic,1,,,,,drupe,fruit,endozoochory,9,10,4,6,,,mm,,,,,,,,,1
+Symplocaceae,Symplocos caerulescens,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Nooteboom, 1980)",endemic,1,,,,,drupe,fruit,endozoochory,7,19,4,7,,,mm,,,,,,,,,1
+Symplocaceae,Symplocos montana,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Nooteboom, 1980)",endemic,1,,,,,drupe,fruit,endozoochory,5,,3,,,,mm,,,,,,,,,1
+Symplocaceae,Symplocos neocaledonica,,Thomas Ibanez,Nooteboom (1989),endemic,1,,,,,drupe,fruit,endozoochory,9,13,4,8,,,mm,,,,,,,,,
+Myrtaceae,Syzygium {macrophylla_macKee26643},,Sébastien Goizé,Kaoh 2017,endemic,1,,,,,berry,fruit,endozoochory,,,,,,,,,,,,,,,,
+Myrtaceae,Syzygium amieuense,,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Dawson, 1999)/Virot",endemic,1,,,,,berry,fruit,endozoochory,21.5,32,9.2,11,,,mm,,,,,,,,,
+Myrtaceae,Syzygium aoupinianum,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)",endemic,1,,,,,berry,fruit,endozoochory,6,7,8,9,,,mm,,,,,,,,,1
+Myrtaceae,Syzygium apetiolatum,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)",endemic,1,,,,,berry,fruit,endozoochory,20,23,7,10,,,mm,,,,,,,,,1
+Myrtaceae,Syzygium arboreum,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)",endemic,1,,,,,berry,fruit,endozoochory,16,25,6,10,,,mm,,,,,,,,,1
+Myrtaceae,Syzygium austrocaledonicum,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)",endemic,1,,,,,berry,fruit,endozoochory,13,16,9,15,,,mm,,,,,,,,1,2
+Myrtaceae,Syzygium baladense,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)",endemic,1,,,,,berry,fruit,endozoochory,10,60,5,8,,,mm,,,,,,,,,1
+Myrtaceae,Syzygium balansae,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)",endemic,1,,,,,berry,fruit,endozoochory,20,25,7,9,,,mm,,,,,,,,,1
+Myrtaceae,Syzygium brachycalyx,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)/Sébastien Goizé mesure herbier de Nouméa",endemic,1,,,,,berry,fruit,endozoochory,4,,,,,,mm,,,,,,,,,
+Myrtaceae,Syzygium brongniartii,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)",endemic,1,,,,,berry,fruit,endozoochory,9,10,6,8,,,mm,,,,,,,,,1
+Myrtaceae,Syzygium bullatum,,Thomas Ibanez,Snow et al. (2017),endemic,1,,,,,berry,fruit,endozoochory,1.2,2.2,1.3,3.3,,,cm,,,,,,,,,
+Myrtaceae,Syzygium capillaceum,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)",endemic,1,,,,,berry,fruit,endozoochory,5,7,7,8,,,mm,,,,,,,,,1
+Myrtaceae,Syzygium densiflorum,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)",endemic,1,,,,,berry,fruit,endozoochory,15,20,12,15,,,mm,,,,,,,,,1
+Myrtaceae,Syzygium frutescens,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)",endemic,1,,,,,berry,fruit,endozoochory,3,5,4,5,,,mm,,,,,,,,1,2
+Myrtaceae,Syzygium koumacense,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)",endemic,1,,,,,berry,fruit,endozoochory,5,6,4.5,6,,,mm,,,,,,,,,1
+Myrtaceae,Syzygium lifuanum,,Thomas Ibanez,Snow et al. (2017),endemic,1,,,,,berry,fruit,endozoochory,0.8,1.3,,,,,cm,,,,,,,,,
+Myrtaceae,Syzygium macranthum,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)",endemic,1,,,,,berry,fruit,endozoochory,20,30,10,22,,,mm,,,,,,,,1,2
+Myrtaceae,Syzygium mouanum,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)",endemic,1,,,,,berry,fruit,endozoochory,5,7,6,9,,,mm,,,,,,,,,1
+Myrtaceae,Syzygium multipetalum,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)",endemic,1,,,,,berry,fruit,endozoochory,15,20,6,10,,,mm,,,,,,,,,1
+Myrtaceae,Syzygium neolaurifolium,,Thomas Ibanez,Snow et al. (2017),endemic,1,,,,,berry,fruit,endozoochory,5,,5,,,,cm,,,,,,,,,
+Myrtaceae,Syzygium pancheri,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)",endemic,1,,,,,berry,fruit,endozoochory,7,10,6,10,,,mm,,,,,,,,1,2
+Myrtaceae,Syzygium paniense,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)",endemic,1,,,,,berry,fruit,endozoochory,30,35,10,13,,,mm,,,,,,,,,1
+Myrtaceae,Syzygium toninense,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)",endemic,1,,,,,berry,fruit,endozoochory,50,60,20,35,,,mm,,,,,,,,,1
+Myrtaceae,Syzygium tripetalum,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)",endemic,1,,,,,berry,fruit,endozoochory,7,12,6,10,,,mm,,,,,,,,1,2
+Myrtaceae,Syzygium wagapense,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)",endemic,1,,,,,berry,fruit,endozoochory,6,8,4,6,,,mm,,,,,,,,,1
+Myrtaceae,Syzygium xanthostemifolium,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1999)/Sébastien Goizé mesure herbier de Nouméa",endemic,1,,,,,berry,fruit,endozoochory,8,,,,,,mm,,,,,,,,,
+Apocynaceae,Tabernaemontana cerifera,Pagiantha cerifera,Sébastien Goizé,"Flore de la Nouvelle-Caledonie (Boiteau, 1981)/Endémia/Virot",endemic,,1,,1,,follicle,seed,endozoochory,50,50,25,,20,,mm,4.4,,9.5,,,,mm,,
+Primulaceae,Tapeinosperma nectandroides,,Thomas Ibanez,Schmid (2012),endemic,1,,,,,drupe,fruit,endozoochory,13,15,,,,,mm,,,,,,,,,1
+Primulaceae,Tapeinosperma nitidum,,Thomas Ibanez,Schmid (2012),endemic,1,,,,,drupe,fruit,endozoochory,,5,,,,,mm,,,,,,,,,1
+Primulaceae,Tapeinosperma oblongifolium,,Thomas Ibanez,Schmid (2012)/Sébastien Goizé mesure site herbier de Nouméa,endemic,1,,,,,drupe,fruit,endozoochory,10,,,,,,mm,,,,,,,,,1
+Primulaceae,Tapeinosperma pancheri,,Thomas Ibanez,Schmid (2012),endemic,1,,,,,drupe,fruit,endozoochory,6,10,,,,,mm,,,,,,,,,1
+Primulaceae,Tapeinosperma robustum,,Thomas Ibanez,Schmid (2012),endemic,1,,,,,drupe,fruit,endozoochory,8,20,,,,,mm,,,,,,,,,1
+Primulaceae,Tapeinosperma scrobiculatum,,Thomas Ibanez,Schmid (2012),native,1,,,,,drupe,fruit,endozoochory,3,5,,,,,mm,,,,,,,,,1
+Primulaceae,Tapeinosperma vieillardii,,Thomas Ibanez,Schmid (2012),endemic,1,,,,,drupe,fruit,endozoochory,13,30,,,,,mm,,,,,,,,,1
+Primulaceae,Tapeinosperma wagapense,,Thomas Ibanez,Schmid (2012),endemic,1,,,,,drupe,fruit,endozoochory,5,6,,,,,mm,,,,,,,,,1
+Rubiaceae,Tarenna ignambiensis,,Sébastien Goizé,herbier de Nouméa/Kaoh_2017/Jérémie (1974),endemic,1,,,,,drupe,fruit,endozoochory,4,6,5,6,,,mm,,,,,,,,,
+Combretaceae,Terminalia gatopensis,,Sébastien Goizé,Munzinger_pers_com,endemic,,,,,1,samara,seed,anemochory,,,,,,,,,,,,,,,,
+Trimeniaceae,Trimenia neocaledonica,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Jérémie, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,8,11,5,7,,,mm,,,,,,,,,1
+Myrtaceae,Uromyrtus artensis,,Sébastien Goizé,MNHN Pancher 1861,endemic,1,,,,,berry,fruit,endozoochory,13,,,,,,mm,,,,,,,,,
+Proteaceae,Virotia leptophylla,Macadamia leptophylla,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Virot, 1968)",endemic,1,,,,,drupe,fruit,endozoochory,40,65,27,55,,,mm,,,,,,,,,
+Proteaceae,Virotia vieillardii,Macadamia vieillardii,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Virot, 1968)",endemic,1,,,,,drupe,fruit,endozoochory,15,20,,,,,mm,,,,,,,,,
+Lamiaceae,Vitex collina,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Mabberley, 2004)",native,1,,,,,drupe,fruit,endozoochory,1.3,,1.5,,,,cm,,,,,,,,,
+Myrtaceae,Xanthomyrtus kanalaensis,,Sébastien Goizé,Virot/Carpenter 2003/Flore_NC,endemic,1,,,,,fleshy fruit,fruit,endozoochory,3.3,7.4,3,5.3,,,mm,,,,,,,,,
+Myrtaceae,Xanthostemon pubescens,,Thomas Ibanez,"Flore de la Nouvelle-Caledonie (Dawson, 1992)",endemic,,1,,,,capsule,seed,anemochory/barochory,5,10,8,11,,,mm,,,,,,,,,
+Annonaceae,Xylopia dibaccata,,Sébastien Goizé,Johnson et al. (2013)/herbier de Nouméa,endemic,,1,,1,,dehiscent fruit,seed,endozoochory,27,,9,,9,10,mm,12.5,13.1,6,6.8,3.9,5,mm,2,4
+Annonaceae,Xylopia pancheri,,Sébastien Goizé,Johnson et al. 2013/Flore_NC/Endémia,endemic,,1,,1,,dry fruit,seed,endozoochory,28,56,8,15,6,11,mm,9.7,12,4,6.4,3.5,4.2,mm,4,5
+Annonaceae,Xylopia vieillardii,,Sébastien Goizé,Johnson et al. (2013)/Flore_NC/Endémia,endemic,,1,,1,,capsule,seed,endozoochory,14,26,8,18,5,12,mm,9,15,5,8,3,5,mm,1,4
+Salicaceae,Xylosma vincentii,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Lescot, 1980)",endemic,1,,,,,berry,fruit,endozoochory,0.4,0.6,,,,,cm,0.4,0.2,,,,,mm,3,5
+Rutaceae,Zanthoxylum neocaledonicum,,Sébastien Goizé,Rendle (1921)/herbier de Nouméa,endemic,,1,,1,,capsule,seed,endozoochory,,,,,,,,,,,,,,,,1
+Winteraceae,Zygogynum stipitatum,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Vink, 1993)",endemic,1,,,,,berry,fruit,endozoochory,,36,,27,,23,mm,,4,,2.5,,2,mm,24,72
+Winteraceae,Zygogynum vieillardii,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Vink, 1993)",endemic,1,,,,,berry,fruit,endozoochory,,20,,,,,mm,,5,,3,,2.5,mm,,

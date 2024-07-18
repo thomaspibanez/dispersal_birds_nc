@@ -1,0 +1,31 @@
+Family,Name in data base,Name in reference,Recorder,Source,Statut,Fleshy_fruit,Dehicent,Fleshy_appendage,Attractive_color,Flight_appendage,Fruit_type,Diaspore,Syndrome,Fruit_d1_min,Fruit_d1_max,Fruit_d2_min,Fruit_d2_max,Fruit_d3_min,Fruit_d3_max,Fruit_dim_unit,Seed_d1_min,Seed_d1_max,Seed_d2_min,Seed_d2_max,Seed_d3_min,Seed_d3_max,Seed_dim_unit,seed_per_fruit_min,seed_per_fruit_max
+Elaeocarpaceae,Elaeocarpus colnettianus,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,3.5,,2.5,,,,cm,3.3,,2.3,,,,cm,,
+Elaeocarpaceae,Elaeocarpus gummatus,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,4,,3,,,,cm,,,,,,,,,
+Elaeocarpaceae,Elaeocarpus hortensis,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Tirel, 1982)",endemic,1,,,,,drupe,fruit,endozoochory,3,,2.2,,,,cm,2.5,,1.8,,,,cm,,
+Moraceae,Ficus prolixa,,Thomas Ibanez,Endemia,native,1,,,,,figue,fruit,endozoochory,3,,,,,,mm,,,,,,,,,
+Pandanaceae,Freycinetia sulcata,,Thomas Ibanez,Duron et al. (2016),endemic,1,,,,,figue,seed,endozoochory,81.3,,46.6,,,,mm,1.2,,0.3,,,,mm,1000,
+Rubiaceae,Guettardella rhamnoides,,Thomas Ibanez,Herbier NOU,endemic,1,,,,,fleshy fruit,fruit,endozoochory,1,1.5,0.5,0.8,,,,,,,,,,,,
+Rubiaceae,Ixora collina,,Thomas Ibanez,Herbier NOU,endemic,1,,,,,fleshy fruit,fruit,endozoochory,0.7,1,0.3,0.7,,,,,,,,,,,,
+Oleaceae,Jasminum didymum,,Thomas Ibanez,Australian tropical rainforest plants,native,1,,,,,fleshy fruit,fruit,endozoochory,7,10,5,9,,,mm,5,10,5,8,,,mm,,
+Joinvilleaceae,Joinvillea plicata,,Thomas Ibanez,,native,1,,,,,fleshy fruit,fruit,endozoochory,5,,,,,,mm,,,,,,,,1,3
+Verbenaceae,Lantana camara,,Thomas Ibanez,,introduced,1,,,,,fleshy fruit,fruit,endozoochory,5,7,,,,,mm,,,,,,,,,
+Meliaceae,Melia azedarach,,Thomas Ibanez,Flora of Australia,introduced,1,,,,,drupe,fruit,endozoochory,2,4,1,2,,,cm,,,,,,,,,
+Sapindaceae,Nephelium sinensis,,Thomas Ibanez,,introduced,1,,,,,fleshy fruit,fruit,endozoochory,,,,,,,,1,3.3,0.6,1.2,,,cm,,
+Apocynaceae,Ochrosia silvatica,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Boiteau, 1981)",endemic,1,,,,,fleshy fruit,fruit,endozoochory,4,,3,,1.2,1.3,cm,,,,,,,,,
+Lamiaceae,Oxera neriifolia,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Mabberley and de Kok, 2004)",endemic,1,,,,,drupe,fruit,endozoochory,15,16,9,18,7,8,mm,12.5,,6,,4,,mm,,
+Lamiaceae,Oxera palmatinervia,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Mabberley and de Kok, 2004)",endemic,1,,,,,drupe,fruit,endozoochory,23,45,9,24,11,27,mm,19,,11,,7,,mm,,
+Sapotaceae,Planchonella cinerea,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Aubréville, 1967)",endemic,1,,,,,fleshy fruit,fruit,endozoochory,1.2,,,,,,cm,10,,5,,,,mm,2,5
+Lamiaceae,Premna serratifolia,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Mabberley and de Kok, 2004)",native,1,,,,,fleshy fruit,fruit,endozoochory,2,6,,,,,mm,,,,,,,,,
+Myrtaceae,Psidium cattleianum,Psidium sinensis,Thomas Ibanez,,introduced,1,,,,,berry,fruit,endozoochory,1.5,4,,,,,cm,2,3,,,,,mm,2,100
+Santalaceae,Santalum austrocaledonicum,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Hallé, 1988)",native,1,,,,,drupe,fruit,endozoochory,7,13,10,15,,,mm,7,11,5,9,,,mm,,
+Araliaceae,Plerandra elegantissima,,Thomas Ibanez,Herbier NOU,endemic,1,,,,,drupe,fruit,endozoochory,0.5,,,,,,,,,,,,,,,
+Solanaceae,Solanum lycopersicum,Tomate,Thomas Ibanez,,introduced,1,,,,,berry,seed,endozoochory,,,,,,,,,,,,,,,,
+Solanaceae,Solanum mauritianum,,Thomas Ibanez,Weeds of Australia,introduced,1,,,,,berry,fruit,endozoochory,10,15,,,,,mm,1.5,2,,,,,mm,,
+Solanaceae,Solanum seaforthianum,,Thomas Ibanez,Weeds of Australia,introduced,1,,,,,berry,fruit,endozoochory,8,12,,,,,mm,2,3,,,,,mm,,
+Solanaceae,Solanum styraciflorum,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Heine, 1976)",endemic,1,,,,,berry,fruit,endozoochory,6,10,,,,,mm,2,,,,,,mm,,
+Solanaceae,Solanum torvum,,Thomas Ibanez,Weeds of Australia,introduced,1,,,,,berry,fruit,endozoochory,12,17,,,,,mm,1.5,2.5,,,,,mm,,
+Myrtaceae,Syzygium cumini,,Thomas Ibanez,World Agroforestry,introduced,1,,,,,berry,fruit,endozoochory,1,5,,,,,cm,1,2,,,,,cm,,
+Myrtaceae,Syzygium pendulinum,,Thomas Ibanez,"Flore de la Nouvelle-Calédonie (Dawson, 1999)",endemic,1,,,,,berry,fruit,endozoochory,4.5,7,4,8,,,mm,,,,,,,,1,2
+Myrtaceae,Syzygium jambos,,Thomas Ibanez,,introduced,1,,,,,berry,fruit,endozoochory,2.5,5,,,,,cm,,,,,,,,,
+Primulaceae,Tapeinosperma gracile,Tapeinosperma acutangulum,Thomas Ibanez,Schmid (2012),endemic,1,,,,,fleshy fruit,fruit,endozoochory,1,,0.5,,,,mm,,,,,,,,,
+Araliaceae,Polyscias crenata,,Thomas Ibanez,Herbier NOU,endemic,1,,,,,fleshy fruit,fruit,endozoochory,0.3,0.5,,,,,,,,,,,,,,
