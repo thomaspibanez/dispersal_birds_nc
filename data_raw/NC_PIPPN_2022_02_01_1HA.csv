@@ -1,4 +1,4 @@
-locality,longitude,latitude,year_obs,nom_taxon,family,genus,dbh
+Locality,Longitude,Latitude,Year,Name,Family,Genus,DBH
 Katalupaï,165.008391,-20.85251455,2017,Acropogon macrocarpus,Malvaceae,Acropogon,17.2
 Katalupaï,165.008391,-20.85251455,2017,Acropogon macrocarpus,Malvaceae,Acropogon,44.6
 Katalupaï,165.008391,-20.85251455,2017,Acropogon macrocarpus,Malvaceae,Acropogon,17.7
