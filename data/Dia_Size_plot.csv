@@ -57,7 +57,7 @@
 "56","Calophyllum caledonicum","Calophyllaceae","endemic","fruit","endozoochory",20,NA,25,NA,NA,NA,0,13,82,0,22,0,0,80,35,0,0,224,52,0,11,73,1,202,0,0,0
 "57","Canarium oleiferum","Burseraceae","endemic","fruit","endozoochory",25.9,30.6,21.1,26.8,NA,NA,0,0,1,0,0,0,0,0,0,0,0,0,14,0,0,0,2,0,0,0,0
 "58","Canarium trifoliolatum","Burseraceae","endemic","fruit","endozoochory",35,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0
-"59","Casearia deplanchei","Salicaceae","endemic","fruit","endozoochory",0.4,NA,NA,NA,NA,NA,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"59","Casearia deplanchei","Salicaceae","endemic","seed","endozoochory",2,3,NA,NA,NA,NA,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 "60","Casearia puberula","Salicaceae","endemic","seed","endozoochory",4,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
 "61","Casearia silvana","Salicaceae","endemic","seed","endozoochory",4,NA,NA,NA,NA,NA,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
 "62","Celtis balansae","Cannabaceae","endemic","fruit","endozoochory",7,7.5,6,8,NA,NA,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0,0
@@ -195,7 +195,7 @@
 "194","Garcinia vieillardii","Clusiaceae","endemic","fruit","endozoochory",22,NA,NA,NA,NA,NA,0,1,0,0,0,0,0,0,0,0,0,381,0,0,0,0,0,0,0,0,0
 "195","Garcinia virgata","Clusiaceae","endemic","seed","endozoochory",8,11,3,5,NA,NA,8,1,6,2,0,0,0,1,0,0,0,31,0,0,0,1,0,0,0,0,0
 "196","Gardenia aubryi","Rubiaceae","endemic","seed","endozoochory",NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,1,0,6,0,0,0,0,0,0,0,0
-"197","Gardenia oudiepe","Rubiaceae","endemic","seed","endozoochory",NA,NA,NA,NA,NA,NA,19,7,27,0,0,5,2,16,1,0,0,0,0,0,0,14,7,0,0,0,0
+"197","Gardenia oudiepe","Rubiaceae","endemic","seed","endozoochory",3.4,5.1,3.6,4.9,NA,NA,19,7,27,0,0,5,2,16,1,0,0,0,0,0,0,14,7,0,0,0,0
 "198","Gastrolepis austrocaledonica","Stemonuraceae","endemic","fruit","endozoochory",15,NA,6,NA,NA,NA,0,0,2,0,45,0,0,0,0,0,0,0,34,0,0,0,0,0,0,1,0
 "199","Geijera balansae","Rutaceae","endemic","seed","",3.7,4.5,4.7,6,NA,NA,0,0,0,0,0,406,1,8,10,0,7,0,0,0,0,0,0,0,0,0,0
 "200","Geissois montana","Cunoniaceae","endemic","seed","anemochory",5.1,NA,6.6,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0
@@ -312,7 +312,7 @@
 "311","Pichonia daenikeri","Sapotaceae","endemic","fruit","endozoochory",14,16,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 "312","Picrella glandulosa","Rutaceae","endemic","fruit","endozoochory",3,4.5,NA,NA,NA,NA,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,0,0,0,0,0
 "313","Picrella ignambiensis","Rutaceae","endemic","fruit","endozoochory",2.5,3,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-"314","Pipturus argenteus","Urticaceae","native","fruit","endozoochory",0.7,1,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"314","Pipturus argenteus","Urticaceae","native","fruit","endozoochory",4,8,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
 "315","Pittosporum mackeei","Pittosporaceae","endemic","seed","endozoochory",NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 "316","Pittosporum oreophilum","Pittosporaceae","endemic","seed","endozoochory",4,6,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 "317","Planchonella amieuana","Sapotaceae","endemic","fruit","endozoochory",NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
@@ -364,7 +364,7 @@
 "363","Pycnandra pubiflora","Sapotaceae","endemic","fruit","endozoochory",25,35,20,25,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 "364","Pycnandra sarlinii","Sapotaceae","endemic","fruit","endozoochory",10,11,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 "365","Pycnandra sessiliflora","Sapotaceae","endemic","fruit","endozoochory",18,22,8,12,NA,NA,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"366","Pycnandra sessilifolia","Sapotaceae","endemic","fruit ","endozoochory",18,30.6,8,19.9,NA,NA,0,0,0,0,7,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+"366","Pycnandra sessilifolia","Sapotaceae","endemic","fruit","endozoochory",18,30.6,8,19.9,NA,NA,0,0,0,0,7,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
 "367","Rauvolfia balansae","Apocynaceae","endemic","fruit","endozoochory",16,18,8,9,NA,NA,0,4,8,0,13,0,0,0,0,0,0,0,13,0,0,0,0,0,3,0,1
 "368","Retrophyllum comptonii","Podocarpaceae","endemic","fruit","endozoochory",20,25,13,20,NA,NA,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,46,9,0
 "369","Rhodamnia andromedoides","Myrtaceae","endemic","fruit","endozoochory",4,5,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0

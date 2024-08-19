@@ -1,4 +1,4 @@
-"","Name","Order","Family","Common_name","Origin","Status","Fruits","Seeds","Nectar","Insects","Reptiles","Body_size","Beak_length_culmen","Beak_length_nares","Beak_width","Beak_depth","Tarsus_length","Wing_length","Kipps_distance","Secondary1","Hand_wing_index","Tail_length","Mass","Body_mass"
+"","Name","Order","Family","Common_name","Origin","Status","Fruits","Seeds","Nectar","Insects","Reptiles","Body_size","Beak_length_culmen","Beak_length_nares","Beak_width","Beak_depth","Tarsus_length","Wing_length","Kipps_distance","Secondary1","Hand_wing_index","Tail_length","Body_mass","Comment"
 "1","Acridotheres tristis","Passeriformes","Sturnidae","Common myna (Merle des Moluques)","Introduced","LC",1,NA,NA,1,NA,250,26.8,16,6.4,8,38.6,139.8,32.8,106.3,23.6,84.8,116.4,""
 "2","Aplonis striata striata","Passeriformes","Sturnidae","Striated starling (Stourne calédonien)","Endemic species","LC",1,NA,NA,1,NA,180,19.5,10.9,5.3,6.7,23.2,100,24.4,74,24.8,70.4,54.2,""
 "3","Caloenas canacorum","Columbiformes","Columbidae","Kanaka pigeon","Native","EX",NA,NA,NA,NA,NA,NA,38.4,20.5,6.8,9.6,54.6,323.8,106.9,218.5,41,123.5,672.3,"Inferred from Caloenas nicobarica (~25% largeur)"

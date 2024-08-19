@@ -4,8 +4,8 @@
 "3","Elaeocarpaceae","Elaeocarpus hortensis","endemic","fruit","endozoochory",30,NA,22,NA,NA,NA
 "4","Moraceae","Ficus prolixa","native","fruit","endozoochory",3,NA,NA,NA,NA,NA
 "5","Pandanaceae","Freycinetia sulcata","endemic","seed","endozoochory",1.2,NA,0.3,NA,NA,NA
-"6","Rubiaceae","Guettardella rhamnoides","endemic","fruit","endozoochory",1,1.5,0.5,0.8,NA,NA
-"7","Rubiaceae","Ixora collina","endemic","fruit","endozoochory",0.7,1,0.3,0.7,NA,NA
+"6","Rubiaceae","Guettardella rhamnoides","endemic","fruit","endozoochory",10,15,5,8,NA,NA
+"7","Rubiaceae","Ixora collina","endemic","fruit","endozoochory",7,10,3,7,NA,NA
 "8","Oleaceae","Jasminum didymum","native","fruit","endozoochory",7,10,5,9,NA,NA
 "9","Joinvilleaceae","Joinvillea plicata","native","fruit","endozoochory",5,NA,NA,NA,NA,NA
 "10","Verbenaceae","Lantana camara","introduced","fruit","endozoochory",5,7,NA,NA,NA,NA
@@ -18,7 +18,7 @@
 "17","Lamiaceae","Premna serratifolia","native","fruit","endozoochory",2,6,NA,NA,NA,NA
 "18","Myrtaceae","Psidium cattleianum","introduced","fruit","endozoochory",15,40,NA,NA,NA,NA
 "19","Santalaceae","Santalum austrocaledonicum","native","fruit","endozoochory",7,13,10,15,NA,NA
-"20","Araliaceae","Plerandra elegantissima","endemic","fruit","endozoochory",0.5,NA,NA,NA,NA,NA
+"20","Araliaceae","Plerandra elegantissima","endemic","fruit","endozoochory",5,NA,NA,NA,NA,NA
 "21","Solanaceae","Solanum lycopersicum","introduced","seed","endozoochory",NA,NA,NA,NA,NA,NA
 "22","Solanaceae","Solanum mauritianum","introduced","fruit","endozoochory",10,15,NA,NA,NA,NA
 "23","Solanaceae","Solanum seaforthianum","introduced","fruit","endozoochory",8,12,NA,NA,NA,NA
@@ -28,4 +28,6 @@
 "27","Myrtaceae","Syzygium pendulinum","endemic","fruit","endozoochory",4.5,7,4,8,NA,NA
 "28","Myrtaceae","Syzygium jambos","introduced","fruit","endozoochory",25,50,NA,NA,NA,NA
 "29","Primulaceae","Tapeinosperma gracile","endemic","fruit","endozoochory",1,NA,0.5,NA,NA,NA
-"30","Araliaceae","Polyscias crenata","endemic","fruit","endozoochory",0.3,0.5,NA,NA,NA,NA
+"30","Araliaceae","Polyscias crenata","endemic","fruit","endozoochory",3,5,NA,NA,NA,NA
+"31","Ebenaceae","Diospyros calciphila","endemic","fruit","endozoochory",12,NA,10,NA,NA,NA
+"32","Apocynaceae","Melodinus scandens","endemic","fruit","endozoochory",40,60,NA,NA,NA,NA
