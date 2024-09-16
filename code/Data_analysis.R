@@ -112,7 +112,7 @@ dev.off()
 
 
 tiff("figures/Hist_dim_lim_sp.tiff",units="in",width=4,height=4,res=300)
-hist(Dia_size_plot_endo$Dim_lim_sp,breaks=seq(0,50,2.5),ylim=c(0,80),main="",
+hist(Dia_size_plot_endo$Dim_lim_sp,breaks=seq(0,60,2.5),ylim=c(0,80),main="",
      border=NA,col=rgb(0.2,0.2,0.8,0.25))
 dev.off()
 
@@ -137,8 +137,8 @@ Cons_bird_plant<-rbind(Cons_bird_plant[Cons_bird_plant$Bird_name!="Ducula goliat
 
 tiff("figures/Size_cons.tiff",units="in",width=5,height=6,res=300)
 par(mar=c(4,14,2,2))
-plot(0,0,xlim=c(0,50),ylim=c(0,10),type="n",axes=F,xlab="",ylab="")
-axis(1,seq(0,50,10),seq(0,50,10))
+plot(0,0,xlim=c(0,60),ylim=c(0,10),type="n",axes=F,xlab="",ylab="")
+axis(1,seq(0,60,10),seq(0,60,10))
 axis(2,seq(1,10,1),unique(Cons_bird_plant$Bird_name),las=1,font=3)
 x1<-max(Cons_bird_plant$Dim_lim_sp[Cons_bird_plant$Bird_name!="Ducula goliath" & Cons_bird_plant$Bird_name!="Zosterops spp."],na.rm=T)
 x2<-33
@@ -175,10 +175,10 @@ temp1<-Cons_bird_plant[Cons_bird_plant$Bird_name!="Ducula goliath",]
 temp2<-temp1$Dim_lim_sp[-which(temp1$Bird_name=="Zosterops spp." & temp1$Dim_lim_sp>10.5)]
 do<-density(temp2,cut=0,na.rm=T)
 d<-density(Cons_bird_plant$Dim_lim_sp[Cons_bird_plant$Bird_name=="Ducula goliath"],cut=0,na.rm=T)
-plot(do,main="",col=rgb(0.2,0.2,0.8,0.5),type="n",bty="n",xlim=c(0,50))
-polygon(x=c(0,do$x,max(do$x),0),
-        y=c(0,do$y,0,0),
-        col=rgb(0.2,0.2,0.2,0.5),border=NA)
+plot(d,main="",col=rgb(0.2,0.2,0.8,0.5),type="n",bty="n",xlim=c(0,60))
+#polygon(x=c(0,do$x,max(do$x),0),
+#        y=c(0,do$y,0,0),
+#        col=rgb(0.2,0.2,0.2,0.5),border=NA)
 polygon(x=c(0,d$x,max(d$x),0),
         y=c(0,d$y,0,0),
         col=rgb(0.2,0.2,0.8,0.5),border=NA)
@@ -321,9 +321,9 @@ dev.off()
 
 
 tiff("figures/Hist_dl_bw_sp.tiff",units="in",width=4,height=4,res=300)
-hist(rep(Nat_birds_pres_traits$Beak_width,8),breaks=seq(0,50,2.5),ylim=c(0,80),main="",
+hist(rep(Nat_birds_pres_traits$Beak_width,8),breaks=seq(0,60,2.5),ylim=c(0,80),main="",
      border=NA,col=rgb(1,0.6470588,0,0.25))
-hist(Dia_size_plot_endo$Dim_lim_sp,breaks=seq(0,50,2.5),
+hist(Dia_size_plot_endo$Dim_lim_sp,breaks=seq(0,60,2.5),
      border=NA,col=rgb(0.2,0.2,0.8,0.25),add=TRUE)
 axis(4,seq(0,10,2)*8,seq(0,10,2))
 abline(v=max(Nat_birds_pres_traits$Beak_width),lty=3,col=rgb(1,0.6470588,0,1))
